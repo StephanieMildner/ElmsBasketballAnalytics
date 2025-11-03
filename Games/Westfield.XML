@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bbgame source="PrestoSports" version="7.4.87" generated="11/26/2024"> 
+  <venue gameid="" visid="ELMS" visname="Elms" homeid="WESTFIEL" homename="Westfield St." date="11/26/2024" location="Woodward Center / Westfield, Mass." time="5:30 PM" start="5:30 PM" end="07:19 PM" duration="01:49" delay="" attend="123" schednote="" leaguegame="N" neutralgame="N" postseason="N"> 
+    <officials text="Fabio Cardoso, John O'Neil, Michael Reaves"></officials>  
+    <notes></notes>  
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"></rules> 
+  </venue>  
+  <status complete="Y" period="4" clock="00:00" running="F"></status>  
+  <team vh="V" id="ELMS" name="Elms" code="532" record="2-4"> 
+    <linescore line="13,8,21,7" score="49"> 
+      <lineprd prd="1" score="13"></lineprd>  
+      <lineprd prd="2" score="8"></lineprd>  
+      <lineprd prd="3" score="21"></lineprd>  
+      <lineprd prd="4" score="7"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="15" fga="50" fgm3="5" fga3="18" ftm="14" fta="24" tp="49" blk="2" stl="6" ast="11" min="200" oreb="19" dreb="36" treb="55" pf="27" tf="0" to="53" dq="1" deadball="4,0" fgpct="30.0" fg3pct="27.8" ftpct="58.3"></stats>  
+      <special vh="V" pts_to="9" pts_ch2="10" pts_paint="18" pts_fastb="9" pts_bench="11" ties="1" leads="1" poss_count="0" poss_time="0" score_count="0" score_time="0" large_lead="2" large_lead_t="1st-01:50"></special> 
+    </totals>  
+    <player uni="01" code="01" name="Heaven Smith" checkname="SMITH,HEAVEN" gp="0" playerId="906ged2us8h3d5a0"></player>  
+    <player uni="02" code="02" name="Phonia Guerrier" checkname="GUERRIER,PHONIA" gp="1" oncourt="Y" playerId="kmzardaklzg6ccqy"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" tp="0" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" blk="0" stl="0" ast="0" min="1"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="04" code="04" name="Mia Pacheco" checkname="PACHECO,MIA" gp="1" oncourt="Y" playerId="s9mbjez16nej8mxu"> 
+      <stats oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" tp="0" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="2" blk="0" stl="0" ast="0" min="2"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="2" tp="0" blk="0" stl="0" ast="0" min="2" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="10" code="10" name="Mary Turco" checkname="TURCO,MARY" gp="1" gs="1" pos="*" playerId="f69sov820l921tma"> 
+      <stats oreb="0" dreb="3" treb="3" pf="5" tf="0" to="6" tp="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" blk="0" stl="0" ast="0" min="11" dq="1"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="4" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="11" code="11" name="Gabby Wasiewicz" checkname="WASIEWICZ,GABBY" gp="0" playerId="21n2havth4q90jbl"></player>  
+    <player uni="12" code="12" name="Jade Lewis" checkname="LEWIS,JADE" gp="1" gs="1" pos="*" playerId="a9up3pha0i7k67s0"> 
+      <stats oreb="2" dreb="3" treb="5" pf="3" tf="0" to="10" tp="10" fgm="3" fga="7" fgm3="0" fga3="2" ftm="4" fta="6" blk="0" stl="1" ast="3" min="35"></stats>  
+      <statsbyprd prd="1" fgm="3" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="0" min="10" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="6" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="6" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="2" min="10" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="2" fta="4" tp="2" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="13" code="13" name="Talia Uribe" checkname="URIBE,TALIA" gp="1" gs="1" pos="*" playerId="dtut13dpcksp18p5"> 
+      <stats oreb="4" dreb="1" treb="5" pf="3" tf="0" to="10" tp="7" fgm="1" fga="7" fgm3="0" fga3="2" ftm="5" fta="7" blk="0" stl="0" ast="0" min="26"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="1" ftm="1" fta="3" tp="3" blk="0" stl="0" ast="0" min="9" oreb="3" dreb="0" treb="3" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="3" fgm3="0" fga3="1" ftm="4" fta="4" tp="4" blk="0" stl="0" ast="0" min="6" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="8" oreb="0" dreb="0" treb="0" pf="3" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="3" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="14" code="14" name="Jenny Gorski" checkname="GORSKI,JENNY" gp="1" gs="1" pos="*" playerId="eu8jnuhy7t667nan"> 
+      <stats oreb="4" dreb="10" treb="14" pf="3" tf="0" to="9" tp="4" fgm="1" fga="3" fgm3="0" fga3="0" ftm="2" fta="2" blk="1" stl="0" ast="1" min="22"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="1" dreb="5" treb="6" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="4" blk="1" stl="0" ast="0" min="8" oreb="2" dreb="0" treb="2" pf="1" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="6" oreb="1" dreb="4" treb="5" pf="2" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="15" code="15" name="Shea Barron" checkname="BARRON,SHEA" gp="1" playerId="gwmad4q4d1h2qyaw"> 
+      <stats oreb="1" dreb="0" treb="1" pf="4" tf="0" to="1" tp="3" fgm="1" fga="3" fgm3="1" fga3="1" ftm="0" fta="0" blk="0" stl="0" ast="2" min="17"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="2" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="20" code="20" name="Kelly LeBel" checkname="LEBEL,KELLY" gp="1" playerId="pl7s2yw08110wdi6"> 
+      <stats oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" tp="4" fgm="1" fga="2" fgm3="1" fga3="2" ftm="1" fta="2" blk="0" stl="2" ast="0" min="16"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="1" fta="2" tp="4" blk="0" stl="1" ast="0" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="21" code="21" name="Soliyana Asfaw" checkname="ASFAW,SOLIYANA" gp="1" playerId="d2fxt9pclyeahvzv"> 
+      <stats oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" tp="0" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" blk="0" stl="0" ast="0" min="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="22" code="22" name="Rahmia Johnston" checkname="JOHNSTON,RAHMIA" gp="1" gs="1" pos="*" playerId="t0srz8x5yym30anx"> 
+      <stats oreb="2" dreb="10" treb="12" pf="1" tf="0" to="11" tp="15" fgm="5" fga="16" fgm3="3" fga3="6" ftm="2" fta="3" blk="1" stl="3" ast="3" min="36"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="1" stl="1" ast="0" min="7" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="5" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="10" oreb="1" dreb="3" treb="4" pf="0" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="4" fga="8" fgm3="3" fga3="4" ftm="1" fta="2" tp="12" blk="0" stl="2" ast="2" min="10" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="4" fgm3="0" fga3="1" ftm="1" fta="1" tp="3" blk="0" stl="0" ast="1" min="9" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="23" code="23" name="Piper Graham" checkname="GRAHAM,PIPER" gp="0" playerId="vd1e6gtjw0a6zplo"></player>  
+    <player uni="24" code="24" name="Sophia Andrade" checkname="ANDRADE,SOPHIA" gp="1" playerId="w6maxa8162lui28x"> 
+      <stats oreb="2" dreb="4" treb="6" pf="3" tf="0" to="2" tp="2" fgm="1" fga="4" fgm3="0" fga3="2" ftm="0" fta="0" blk="0" stl="0" ast="2" min="20"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="2" min="7" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="5" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="32" code="32" name="Ta'Niyah Scott" checkname="SCOTT,TA'NIYAH" gp="1" oncourt="Y" playerId="c8q0ko9cky91stxy"> 
+      <stats oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" tp="2" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="2" blk="0" stl="0" ast="0" min="4"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="2" tp="2" blk="0" stl="0" ast="0" min="4" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="34" code="34" name="Autumn Koch" checkname="KOCH,AUTUMN" gp="1" playerId="zzsjtol0elld1qwq"> 
+      <stats oreb="0" dreb="1" treb="1" pf="2" tf="0" to="1" tp="0" fgm="0" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" blk="0" stl="0" ast="0" min="8"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="35" code="35" name="Stephanie Mildner" checkname="MILDNER,STEPHANIE" gp="1" oncourt="Y" playerId="ukh17ehgve0e61vx"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" tp="0" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" blk="0" stl="0" ast="0" min="1"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="50" code="50" name="Danajah Stokes" checkname="STOKES,DANAJAH" gp="1" oncourt="Y" playerId="g08enyo92q47r3hb"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" tp="0" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" blk="0" stl="0" ast="0" min="1"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="TM" code="TM" name="Team" checkname="TEAM" gp="1" playerId=""> 
+      <stats oreb="1" dreb="2" treb="3" pf="0" tf="0" to="1" tp="0"></stats>  
+      <statsbyprd prd="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd> 
+    </player> 
+  </team>  
+  <team vh="H" id="WESTFIEL" name="Westfield St." code="777" record="5-2"> 
+    <linescore line="14,26,23,26" score="89"> 
+      <lineprd prd="1" score="14"></lineprd>  
+      <lineprd prd="2" score="26"></lineprd>  
+      <lineprd prd="3" score="23"></lineprd>  
+      <lineprd prd="4" score="26"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="31" fga="86" fgm3="9" fga3="30" ftm="18" fta="33" tp="89" blk="2" stl="37" ast="24" min="200" oreb="23" dreb="22" treb="45" pf="19" tf="0" to="23" dq="0" deadball="10,1" fgpct="36.0" fg3pct="30.0" ftpct="54.5"></stats>  
+      <special vh="H" pts_to="44" pts_ch2="9" pts_paint="42" pts_fastb="37" pts_bench="40" ties="1" leads="1" poss_count="0" poss_time="0" score_count="0" score_time="0" large_lead="41" large_lead_t="4th-02:59"></special> 
+    </totals>  
+    <player uni="00" code="00" name="Jess Gardner" checkname="GARDNER,JESS" gp="1" playerId="k7x89cp8emnlifx3"> 
+      <stats oreb="0" dreb="1" treb="1" pf="3" tf="0" to="2" tp="1" fgm="0" fga="3" fgm3="0" fga3="1" ftm="1" fta="2" blk="1" stl="3" ast="0" min="18"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="8" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="1" stl="1" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="01" code="01" name="Ashley Ames" checkname="AMES,ASHLEY" gp="1" playerId="s3ewmb6a5nwe0p4h"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" tp="3" fgm="1" fga="2" fgm3="1" fga3="2" ftm="0" fta="0" blk="0" stl="1" ast="1" min="8"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="1" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="02" code="02" name="Alex Jackson" checkname="JACKSON,ALEX" gp="1" oncourt="Y" playerId="00qeoy14vwxwh2dq"> 
+      <stats oreb="2" dreb="2" treb="4" pf="1" tf="0" to="0" tp="2" fgm="1" fga="3" fgm3="0" fga3="2" ftm="0" fta="3" blk="0" stl="2" ast="0" min="6"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="3" tp="2" blk="0" stl="1" ast="0" min="3" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="03" code="03" name="Sophia DeAngelis" checkname="DEANGELIS,SOPHIA" gp="1" gs="1" pos="*" playerId="9lcvhmc44va71q9r"> 
+      <stats oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" tp="5" fgm="1" fga="5" fgm3="0" fga3="0" ftm="3" fta="4" blk="0" stl="0" ast="2" min="15"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="4" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="05" code="05" name="Tavi Williams" checkname="WILLIAMS,TAVI" gp="1" gs="1" pos="*" playerId="su1x73c1fjztmkkg"> 
+      <stats oreb="2" dreb="2" treb="4" pf="2" tf="0" to="3" tp="0" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="2" blk="0" stl="3" ast="4" min="13"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="1" min="4" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="2" tp="0" blk="0" stl="1" ast="2" min="5" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="2" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="10" code="10" name="Alexus Sanchez" checkname="SANCHEZ,ALEXUS" gp="1" oncourt="Y" playerId="jtktvv2odw4moy1r"> 
+      <stats oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" tp="0" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" blk="0" stl="0" ast="0" min="3"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="11" code="11" name="Tori Dodge" checkname="DODGE,TORI" gp="1" oncourt="Y" playerId="gqp6lg2vhmk5i9w5"> 
+      <stats oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" tp="0" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" blk="0" stl="0" ast="1" min="5"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="12" code="12" name="Kayley Downie" checkname="DOWNIE,KAYLEY" gp="1" oncourt="Y" playerId="fnrmqd3xddgkp1lu"> 
+      <stats oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" tp="3" fgm="1" fga="2" fgm3="1" fga3="2" ftm="0" fta="0" blk="0" stl="1" ast="0" min="4"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="1" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="14" code="14" name="Alexa Davis" checkname="DAVIS,ALEXA" gp="0" playerId="ahexj27ztroegzf0"></player>  
+    <player uni="15" code="15" name="Anaya Tolton" checkname="TOLTON,ANAYA" gp="1" oncourt="Y" playerId="a1wo6m49y9zkbul6"> 
+      <stats oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" tp="4" fgm="2" fga="2" fgm3="0" fga3="0" ftm="0" fta="1" blk="0" stl="0" ast="0" min="4"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="2" fga="2" fgm3="0" fga3="0" ftm="0" fta="1" tp="4" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="20" code="20" name="Kiki McNary" checkname="MCNARY,KIKI" gp="1" playerId="o6f8yi5jiktjmc1g"> 
+      <stats oreb="0" dreb="0" treb="0" pf="2" tf="0" to="1" tp="6" fgm="3" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" blk="1" stl="1" ast="2" min="6"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="2" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="1" stl="0" ast="2" min="4" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="21" code="21" name="Hannah Sheldon" checkname="SHELDON,HANNAH" gp="1" gs="1" pos="*" playerId="40161rald68kbxhk"> 
+      <stats oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" tp="2" fgm="0" fga="2" fgm3="0" fga3="0" ftm="2" fta="4" blk="0" stl="1" ast="3" min="13"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="1" ast="1" min="4" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="22" code="22" name="Maddie Pond" checkname="POND,MADDIE" gp="1" gs="1" pos="*" playerId="ynviakahciz6t7kf"> 
+      <stats oreb="2" dreb="3" treb="5" pf="0" tf="0" to="2" tp="23" fgm="8" fga="17" fgm3="5" fga3="10" ftm="2" fta="2" blk="0" stl="11" ast="4" min="16"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="4" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="5" fga="8" fgm3="4" fga3="7" ftm="1" fta="1" tp="15" blk="0" stl="4" ast="1" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="2" fga="6" fgm3="0" fga3="2" ftm="1" fta="1" tp="5" blk="0" stl="1" ast="1" min="5" oreb="2" dreb="1" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="2" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="2" ast="2" min="3" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="23" code="23" name="Caellen Foley" checkname="FOLEY,CAELLEN" gp="1" playerId="kp0dlphy1pm9bmjg"> 
+      <stats oreb="2" dreb="1" treb="3" pf="0" tf="0" to="0" tp="4" fgm="1" fga="1" fgm3="0" fga3="0" ftm="2" fta="4" blk="0" stl="1" ast="0" min="18"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="4" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="24" code="24" name="Olivia Hadla" checkname="HADLA,OLIVIA" gp="1" playerId="gc9ekmdmyh2kd32h"> 
+      <stats oreb="3" dreb="1" treb="4" pf="3" tf="0" to="3" tp="13" fgm="5" fga="19" fgm3="1" fga3="5" ftm="2" fta="2" blk="0" stl="5" ast="1" min="24"></stats>  
+      <statsbyprd prd="1" fgm="2" fga="8" fgm3="1" fga3="2" ftm="0" fta="0" tp="5" blk="0" stl="1" ast="1" min="8" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="0" fga3="1" ftm="2" fta="2" tp="4" blk="0" stl="1" ast="0" min="5" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="4" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="4" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="2" ast="0" min="6" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="25" code="25" name="Morgan Berthiaume" checkname="BERTHIAUME,MORGAN" gp="1" playerId="pufwyxzrnumg5bfo"> 
+      <stats oreb="4" dreb="3" treb="7" pf="2" tf="0" to="2" tp="4" fgm="1" fga="4" fgm3="1" fga3="1" ftm="1" fta="2" blk="0" stl="4" ast="3" min="17"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="3" ast="1" min="7" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="5" oreb="3" dreb="1" treb="4" pf="1" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="2" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="32" code="32" name="Caroline Galvani" checkname="GALVANI,CAROLINE" gp="1" playerId="mgsw33v2bnsgjeju"> 
+      <stats oreb="0" dreb="0" treb="0" pf="3" tf="0" to="1" tp="0" fgm="0" fga="5" fgm3="0" fga3="4" ftm="0" fta="0" blk="0" stl="1" ast="2" min="14"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="33" code="33" name="Jordan Grant" checkname="GRANT,JORDAN" gp="1" gs="1" pos="*" playerId="1nggc7snn48oeojb"> 
+      <stats oreb="5" dreb="2" treb="7" pf="0" tf="0" to="4" tp="19" fgm="7" fga="15" fgm3="0" fga3="1" ftm="5" fta="7" blk="0" stl="3" ast="1" min="16"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="0" fga3="1" ftm="3" fta="4" tp="5" blk="0" stl="0" ast="0" min="2" oreb="3" dreb="1" treb="4" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="2" ast="1" min="6" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="3" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="0" min="5" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="3" fga="4" fgm3="0" fga3="0" ftm="1" fta="1" tp="7" blk="0" stl="0" ast="0" min="3" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="TM" code="TM" name="Team" checkname="TEAM" gp="1" playerId=""> 
+      <stats oreb="2" dreb="1" treb="3" pf="0" tf="0" to="1" tp="0"></stats>  
+      <statsbyprd prd="1" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" tp="0" dq="0"></statsbyprd> 
+    </player> 
+  </team>  
+  <plays format="tokens"> 
+    <period number="1" time="10:00"> 
+      <special vh="V" pts_to="2" pts_ch2="1" pts_paint="6" pts_fastb="2" pts_bench="4" ties="1" leads="1" poss_count="0" poss_time="0" score_count="6" score_time="1237" large_lead="2" large_lead_t="1st-01:50"></special>  
+      <special vh="H" pts_to="5" pts_ch2="1" pts_paint="4" pts_fastb="0" pts_bench="8" ties="1" leads="1" poss_count="0" poss_time="0" score_count="8" score_time="2538" large_lead="6" large_lead_t="1st-06:06"></special>  
+      <summary vh="V" fgm="5" fga="11" fgm3="1" fga3="4" ftm="2" fta="5" blk="1" stl="3" ast="2" oreb="5" dreb="11" treb="16" pf="6" tf="0" to="18"></summary>  
+      <summary vh="H" fgm="4" fga="23" fgm3="1" fga3="6" ftm="5" fta="8" blk="0" stl="10" ast="3" oreb="7" dreb="2" treb="9" pf="3" tf="0" to="8"></summary>  
+      <play vh="H" time="09:43" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="TURNOVER"></play>  
+      <play vh="V" time="09:41" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:33" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="TURNOVER"></play>  
+      <play vh="H" time="09:27" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="ASSIST"></play>  
+      <play vh="V" time="09:27" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:27" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="JUMPER" vscore="0" hscore="2"></play>  
+      <play vh="V" time="09:16" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:14" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="09:12" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="09:12" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="BLOCK"></play>  
+      <play vh="H" time="09:12" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="09:12" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:12" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:12" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:12" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:12" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:12" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:12" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:12" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:12" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:12" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:56" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="08:56" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:38" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="08:37" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="08:28" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="08:28" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:01" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="07:49" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="07:49" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="07:42" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="07:40" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="STEAL"></play>  
+      <play vh="H" time="07:29" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="07:29" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="07:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="TURNOVER"></play>  
+      <play vh="V" time="07:23" uni="12" team="ELMS" checkname="LEWIS,JADE" action="STEAL"></play>  
+      <play vh="V" time="07:20" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="2" hscore="2"></play>  
+      <play vh="V" time="07:08" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="H" time="07:08" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="MISS" type="FT"></play>  
+      <play vh="H" time="07:08" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="07:08" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="GOOD" type="FT" vscore="2" hscore="3"></play>  
+      <play vh="V" time="07:08" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:08" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:08" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:08" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:08" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:08" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:08" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:08" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:08" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:08" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:08" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:08" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:08" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:08" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:58" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="06:58" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="06:48" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="06:48" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="06:34" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="H" time="06:34" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="FT" vscore="2" hscore="4"></play>  
+      <play vh="H" time="06:34" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="FT" vscore="2" hscore="5"></play>  
+      <play vh="V" time="06:34" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:34" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:24" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="06:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="STEAL"></play>  
+      <play vh="H" time="06:24" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:24" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:24" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:24" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:24" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:24" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:24" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:24" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:24" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:16" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="TURNOVER"></play>  
+      <play vh="V" time="06:08" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="06:08" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="STEAL"></play>  
+      <play vh="H" time="06:06" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="3PTR" vscore="2" hscore="8"></play>  
+      <play vh="H" time="06:06" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="ASSIST"></play>  
+      <play vh="V" time="05:39" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="05:39" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:35" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="05:35" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:27" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="FOUL"></play>  
+      <play vh="V" time="05:27" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="FT"></play>  
+      <play vh="V" time="05:27" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="05:27" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="FT"></play>  
+      <play vh="V" time="05:27" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:23" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="05:23" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="STEAL"></play>  
+      <play vh="V" time="05:23" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="FOUL"></play>  
+      <play vh="H" time="05:20" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="05:20" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:04" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="GOOD" type="3PTR" vscore="5" hscore="8"></play>  
+      <play vh="V" time="05:04" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="ASSIST"></play>  
+      <play vh="H" time="04:55" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:55" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:48" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="04:47" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="04:42" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="04:42" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="04:25" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="FOUL"></play>  
+      <play vh="V" time="04:25" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="MISS" type="FT"></play>  
+      <play vh="V" time="04:25" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="04:25" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="GOOD" type="FT" vscore="6" hscore="8"></play>  
+      <play vh="V" time="04:25" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:25" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:25" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:25" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:25" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:25" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:12" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="LAYUP" paint="Y" vscore="6" hscore="10"></play>  
+      <play vh="V" time="03:59" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="03:52" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="TURNOVER"></play>  
+      <play vh="V" time="03:49" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="STEAL"></play>  
+      <play vh="V" time="03:44" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="03:44" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="03:40" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="FOUL"></play>  
+      <play vh="V" time="03:40" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="03:40" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="7" hscore="10"></play>  
+      <play vh="H" time="03:40" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:40" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:40" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:40" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:40" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:40" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:40" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:40" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:40" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:40" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:33" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="TURNOVER"></play>  
+      <play vh="V" time="03:33" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="03:33" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="03:33" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="TURNOVER"></play>  
+      <play vh="V" time="03:33" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="V" time="03:33" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="10"></play>  
+      <play vh="H" time="03:33" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="TURNOVER"></play>  
+      <play vh="V" time="03:33" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="STEAL"></play>  
+      <play vh="V" time="03:32" uni="12" team="ELMS" checkname="LEWIS,JADE" action="FOUL"></play>  
+      <play vh="V" time="03:32" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="03:32" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:32" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:32" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:32" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:32" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:32" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:32" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:32" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:32" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:32" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:32" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:25" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="03:25" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:44" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="02:44" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:38" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="02:38" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:33" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="02:33" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="02:25" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="TURNOVER"></play>  
+      <play vh="H" time="02:24" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="STEAL"></play>  
+      <play vh="H" time="02:20" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="02:20" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:06" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:06" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:06" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:06" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:06" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:05" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="ASSIST"></play>  
+      <play vh="V" time="02:05" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="JUMPER" vscore="11" hscore="10"></play>  
+      <play vh="H" time="01:59" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="01:59" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="01:56" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="01:56" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="01:56" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="FOUL"></play>  
+      <play vh="H" time="01:56" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:56" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="01:56" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="FT" vscore="11" hscore="11"></play>  
+      <play vh="V" time="01:50" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="LAYUP" paint="Y" vscore="13" hscore="11"></play>  
+      <play vh="V" time="01:44" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="FOUL"></play>  
+      <play vh="H" time="01:44" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="GOOD" type="FT" vscore="13" hscore="12"></play>  
+      <play vh="H" time="01:44" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:44" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="01:43" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="01:43" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:37" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="01:37" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="STEAL"></play>  
+      <play vh="H" time="01:37" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="01:37" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:37" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:37" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:37" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:37" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:37" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:37" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:37" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:37" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:37" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:37" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:37" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:37" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:25" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="V" time="01:13" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="01:13" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="01:06" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="01:05" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="01:05" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="00:41" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="00:41" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="00:33" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="GOOD" type="LAYUP" paint="Y" vscore="13" hscore="14"></play>  
+      <play vh="H" time="00:33" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="ASSIST"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="2" time="10:00"> 
+      <special vh="V" pts_to="4" pts_ch2="4" pts_paint="2" pts_fastb="0" pts_bench="0" ties="0" leads="0" poss_count="0" poss_time="0" score_count="7" score_time="1372" large_lead="0" large_lead_t="-"></special>  
+      <special vh="H" pts_to="15" pts_ch2="1" pts_paint="6" pts_fastb="15" pts_bench="6" ties="0" leads="0" poss_count="0" poss_time="0" score_count="15" score_time="4165" large_lead="19" large_lead_t="2nd-00:08"></special>  
+      <summary vh="V" fgm="1" fga="11" fgm3="0" fga3="2" ftm="6" fta="6" blk="1" stl="1" ast="1" oreb="5" dreb="5" treb="10" pf="8" tf="0" to="13"></summary>  
+      <summary vh="H" fgm="7" fga="18" fgm3="4" fga3="11" ftm="8" fta="11" blk="0" stl="10" ast="6" oreb="6" dreb="5" treb="11" pf="4" tf="0" to="8"></summary>  
+      <play vh="H" time="09:41" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="3PTR" fastb="Y" vscore="13" hscore="17"></play>  
+      <play vh="H" time="09:41" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="ASSIST"></play>  
+      <play vh="V" time="09:24" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:23" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="STEAL"></play>  
+      <play vh="V" time="09:20" uni="12" team="ELMS" checkname="LEWIS,JADE" action="FOUL"></play>  
+      <play vh="H" time="09:14" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="3PTR" vscore="13" hscore="20"></play>  
+      <play vh="H" time="09:14" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="ASSIST"></play>  
+      <play vh="V" time="08:56" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="08:56" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:51" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="08:51" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:38" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="08:38" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:31" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="TURNOVER"></play>  
+      <play vh="V" time="08:31" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="08:31" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:31" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:31" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:31" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:31" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:31" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:31" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:31" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:31" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:31" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:31" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="08:12" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" paint="Y" vscore="15" hscore="20"></play>  
+      <play vh="V" time="08:12" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="V" time="08:01" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL"></play>  
+      <play vh="H" time="08:01" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="MISS" type="FT"></play>  
+      <play vh="H" time="08:01" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="08:01" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="GOOD" type="FT" vscore="15" hscore="21"></play>  
+      <play vh="V" time="08:01" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="IN"></play>  
+      <play vh="V" time="08:01" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="08:01" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="08:01" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:47" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="H" time="07:44" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="07:44" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="07:14" uni="TM" team="WESTFIEL" checkname="TEAM" action="TURNOVER"></play>  
+      <play vh="H" time="07:10" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:10" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:10" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:10" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:10" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:10" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:10" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:10" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:10" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:10" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:00" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="TURNOVER"></play>  
+      <play vh="H" time="07:00" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="06:55" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="06:55" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="06:51" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="TURNOVER"></play>  
+      <play vh="V" time="06:50" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="STEAL"></play>  
+      <play vh="V" time="06:43" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="06:32" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="FOUL"></play>  
+      <play vh="H" time="06:32" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="FT"></play>  
+      <play vh="H" time="06:32" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="06:32" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="FT" vscore="15" hscore="22"></play>  
+      <play vh="V" time="06:24" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="H" time="06:23" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="06:20" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="15" hscore="24"></play>  
+      <play vh="V" time="06:20" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="FOUL"></play>  
+      <play vh="H" time="06:20" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="FT" vscore="15" hscore="25"></play>  
+      <play vh="H" time="06:20" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:20" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:20" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:20" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:20" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:20" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:20" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:20" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:20" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:20" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:09" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="06:09" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="06:03" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="FOUL"></play>  
+      <play vh="V" time="06:03" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="16" hscore="25"></play>  
+      <play vh="V" time="06:03" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="17" hscore="25"></play>  
+      <play vh="V" time="06:03" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:03" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:54" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="05:54" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:50" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="05:50" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:38" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="05:38" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="BLOCK"></play>  
+      <play vh="H" time="05:38" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:30" uni="12" team="ELMS" checkname="LEWIS,JADE" action="FOUL"></play>  
+      <play vh="H" time="05:30" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="GOOD" type="FT" vscore="17" hscore="26"></play>  
+      <play vh="H" time="05:30" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="MISS" type="FT"></play>  
+      <play vh="V" time="05:30" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="05:30" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:30" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:30" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:30" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:30" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:30" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:30" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:30" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="05:17" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="05:17" uni="21" team="ELMS" checkname="ASFAW,SOLIYANA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:11" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:11" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:55" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="04:55" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="04:42" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="TURNOVER"></play>  
+      <play vh="V" time="04:34" uni="21" team="ELMS" checkname="ASFAW,SOLIYANA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:34" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:24" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL"></play>  
+      <play vh="H" time="04:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="FT" vscore="17" hscore="27"></play>  
+      <play vh="H" time="04:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="FT" vscore="17" hscore="28"></play>  
+      <play vh="V" time="04:24" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:24" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:24" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:24" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:24" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:24" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:24" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:24" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:24" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:24" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:24" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:24" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:24" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:24" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:20" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="TURNOVER"></play>  
+      <play vh="H" time="04:15" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="ASSIST"></play>  
+      <play vh="H" time="04:15" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="17" hscore="30"></play>  
+      <play vh="V" time="03:56" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="03:56" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="V" time="03:52" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="03:52" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="03:42" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="03:42" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="STEAL"></play>  
+      <play vh="H" time="03:40" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="TURNOVER"></play>  
+      <play vh="V" time="03:40" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="FULL"></play>  
+      <play vh="V" time="03:24" uni="TM" team="ELMS" checkname="TEAM" action="TURNOVER"></play>  
+      <play vh="H" time="03:13" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="03:13" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="03:00" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="02:59" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="STEAL"></play>  
+      <play vh="H" time="02:50" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="02:50" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="02:48" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:48" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:48" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:48" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:48" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:48" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:48" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:41" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="02:40" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="STEAL"></play>  
+      <play vh="H" time="02:32" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="3PTR" fastb="Y" vscore="17" hscore="33"></play>  
+      <play vh="H" time="02:32" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="ASSIST"></play>  
+      <play vh="H" time="02:25" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:25" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:25" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:25" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:25" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:25" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:25" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:25" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:25" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:25" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:22" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="FOUL"></play>  
+      <play vh="V" time="02:15" uni="15" team="ELMS" checkname="BARRON,SHEA" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="02:15" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:11" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="TURNOVER"></play>  
+      <play vh="V" time="02:09" uni="15" team="ELMS" checkname="BARRON,SHEA" action="TURNOVER"></play>  
+      <play vh="H" time="02:08" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="STEAL"></play>  
+      <play vh="H" time="02:04" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="02:04" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:52" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="01:51" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="STEAL"></play>  
+      <play vh="H" time="01:43" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="TURNOVER"></play>  
+      <play vh="H" time="01:43" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:43" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:43" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:43" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:43" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:43" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:43" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:43" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:43" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:43" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:31" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="01:30" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="01:28" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="17" hscore="35"></play>  
+      <play vh="H" time="01:28" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="ASSIST"></play>  
+      <play vh="V" time="01:06" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="01:06" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="01:01" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="01:01" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="00:55" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="00:55" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="00:51" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="18" hscore="35"></play>  
+      <play vh="V" time="00:51" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="19" hscore="35"></play>  
+      <play vh="H" time="00:51" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:51" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:49" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="TURNOVER"></play>  
+      <play vh="H" time="00:49" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:49" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:49" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:49" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:41" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="FOUL"></play>  
+      <play vh="V" time="00:27" uni="15" team="ELMS" checkname="BARRON,SHEA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="00:27" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="00:26" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="FOUL"></play>  
+      <play vh="V" time="00:26" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="FT" vscore="20" hscore="35"></play>  
+      <play vh="V" time="00:26" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="FT" vscore="21" hscore="35"></play>  
+      <play vh="V" time="00:18" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL"></play>  
+      <play vh="H" time="00:18" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="GOOD" type="FT" vscore="21" hscore="36"></play>  
+      <play vh="H" time="00:18" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="GOOD" type="FT" vscore="21" hscore="37"></play>  
+      <play vh="H" time="00:18" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:18" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="00:14" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="00:13" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="00:08" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="3PTR" fastb="Y" vscore="21" hscore="40"></play>  
+      <play vh="H" time="00:08" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="ASSIST"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="3" time="10:00"> 
+      <special vh="V" pts_to="2" pts_ch2="2" pts_paint="6" pts_fastb="7" pts_bench="5" ties="0" leads="0" poss_count="0" poss_time="0" score_count="10" score_time="2941" large_lead="0" large_lead_t="-"></special>  
+      <special vh="H" pts_to="15" pts_ch2="2" pts_paint="14" pts_fastb="12" pts_bench="11" ties="0" leads="0" poss_count="0" poss_time="0" score_count="13" score_time="3887" large_lead="24" large_lead_t="3rd-00:29"></special>  
+      <summary vh="V" fgm="7" fga="17" fgm3="4" fga3="8" ftm="3" fta="4" blk="0" stl="2" ast="6" oreb="5" dreb="9" treb="14" pf="7" tf="0" to="11"></summary>  
+      <summary vh="H" fgm="9" fga="23" fgm3="2" fga3="7" ftm="3" fta="7" blk="1" stl="8" ast="6" oreb="5" dreb="5" treb="10" pf="6" tf="0" to="4"></summary>  
+      <play vh="H" time="09:53" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="09:53" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="09:41" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="09:41" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="09:40" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="09:28" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="21" hscore="42"></play>  
+      <play vh="H" time="09:28" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="ASSIST"></play>  
+      <play vh="V" time="09:17" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:17" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="STEAL"></play>  
+      <play vh="V" time="09:13" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL"></play>  
+      <play vh="H" time="09:13" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="MISS" type="FT"></play>  
+      <play vh="H" time="09:13" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="09:13" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="GOOD" type="FT" vscore="21" hscore="43"></play>  
+      <play vh="V" time="09:02" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="23" hscore="43"></play>  
+      <play vh="V" time="09:02" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="H" time="08:53" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="08:53" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:43" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="3PTR" fastb="Y" vscore="26" hscore="43"></play>  
+      <play vh="V" time="08:43" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="ASSIST"></play>  
+      <play vh="H" time="08:31" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="26" hscore="45"></play>  
+      <play vh="H" time="08:31" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="ASSIST"></play>  
+      <play vh="V" time="08:13" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="28" hscore="45"></play>  
+      <play vh="H" time="08:05" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="08:05" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="07:59" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="07:59" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="07:56" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="V" time="07:56" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="07:56" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:56" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:56" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:56" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:56" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:56" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:56" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:56" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:56" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:56" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:50" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="GOOD" type="3PTR" vscore="28" hscore="48"></play>  
+      <play vh="H" time="07:50" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="ASSIST"></play>  
+      <play vh="H" time="07:33" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="FOUL"></play>  
+      <play vh="V" time="07:33" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:33" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:17" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="07:17" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:01" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="07:01" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="06:58" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="06:58" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:58" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:58" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:58" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:58" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:58" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:58" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:58" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:58" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:58" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:53" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="06:53" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="06:50" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="06:50" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="06:48" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="FOUL"></play>  
+      <play vh="V" time="06:32" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="3PTR" vscore="31" hscore="48"></play>  
+      <play vh="V" time="06:32" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="H" time="06:23" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="TURNOVER"></play>  
+      <play vh="V" time="06:21" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="STEAL"></play>  
+      <play vh="H" time="06:14" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:14" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:14" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:14" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:14" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:14" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:14" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:14" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:03" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="06:03" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:55" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="05:55" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:52" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="05:52" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:51" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL"></play>  
+      <play vh="H" time="05:37" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="TURNOVER"></play>  
+      <play vh="V" time="05:35" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="STEAL"></play>  
+      <play vh="V" time="05:23" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="05:23" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="05:18" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="05:18" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="BLOCK"></play>  
+      <play vh="V" time="05:18" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:18" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:18" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:18" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:18" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:18" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:18" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:18" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:18" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="05:11" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="05:11" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="STEAL"></play>  
+      <play vh="H" time="05:07" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="31" hscore="50"></play>  
+      <play vh="H" time="05:07" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="ASSIST"></play>  
+      <play vh="H" time="04:51" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="FOUL"></play>  
+      <play vh="V" time="04:44" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:44" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="04:37" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="GOOD" type="LAYUP" paint="Y" vscore="33" hscore="50"></play>  
+      <play vh="V" time="04:37" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="H" time="04:31" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="TURNOVER"></play>  
+      <play vh="V" time="04:31" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="H" time="04:31" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:31" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:31" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:31" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:31" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:31" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:31" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:31" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:31" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:31" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:23" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="FOUL"></play>  
+      <play vh="H" time="04:17" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="FOUL"></play>  
+      <play vh="V" time="04:17" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="34" hscore="50"></play>  
+      <play vh="V" time="04:17" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="35" hscore="50"></play>  
+      <play vh="H" time="04:07" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:07" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="03:58" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="03:57" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="STEAL"></play>  
+      <play vh="H" time="03:56" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="35" hscore="52"></play>  
+      <play vh="V" time="03:48" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="03:47" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="STEAL"></play>  
+      <play vh="H" time="03:43" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="03:43" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="03:31" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="V" time="03:31" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="IN"></play>  
+      <play vh="V" time="03:31" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:31" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:31" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:31" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:31" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:31" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:31" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:31" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:31" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:31" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:31" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:23" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="TURNOVER"></play>  
+      <play vh="V" time="03:22" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="03:21" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="STEAL"></play>  
+      <play vh="V" time="03:19" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="03:19" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="MISS" type="FT"></play>  
+      <play vh="H" time="03:19" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="03:19" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="MISS" type="FT"></play>  
+      <play vh="H" time="03:19" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="03:12" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" vscore="35" hscore="54"></play>  
+      <play vh="H" time="03:12" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="ASSIST"></play>  
+      <play vh="V" time="02:52" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="02:52" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:47" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="02:47" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:38" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="02:38" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="02:27" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="TURNOVER"></play>  
+      <play vh="H" time="02:26" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="02:20" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="35" hscore="56"></play>  
+      <play vh="V" time="02:18" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="02:18" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="FT" vscore="35" hscore="57"></play>  
+      <play vh="V" time="02:18" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:18" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:18" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:18" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:18" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:18" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:18" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:18" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:18" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:18" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:18" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:18" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:05" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="FOUL"></play>  
+      <play vh="V" time="02:05" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="36" hscore="57"></play>  
+      <play vh="V" time="02:05" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="FT"></play>  
+      <play vh="V" time="02:05" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="02:05" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:05" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:48" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="01:48" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:44" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="FOUL"></play>  
+      <play vh="H" time="01:38" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:38" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="01:38" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="GOOD" type="FT" vscore="36" hscore="58"></play>  
+      <play vh="V" time="01:26" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="01:25" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="STEAL"></play>  
+      <play vh="H" time="01:22" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="01:22" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="01:17" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="01:17" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:06" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="3PTR" vscore="39" hscore="58"></play>  
+      <play vh="V" time="01:06" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="H" time="00:52" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="GOOD" type="3PTR" vscore="39" hscore="61"></play>  
+      <play vh="H" time="00:52" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="ASSIST"></play>  
+      <play vh="V" time="00:34" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="TURNOVER"></play>  
+      <play vh="H" time="00:33" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="STEAL"></play>  
+      <play vh="H" time="00:29" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="39" hscore="63"></play>  
+      <play vh="V" time="00:09" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="3PTR" vscore="42" hscore="63"></play>  
+      <play vh="V" time="00:09" uni="15" team="ELMS" checkname="BARRON,SHEA" action="ASSIST"></play>  
+      <play vh="H" time="00:00" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="00:00" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="4" time="10:00"> 
+      <special vh="V" pts_to="1" pts_ch2="3" pts_paint="4" pts_fastb="0" pts_bench="2" ties="0" leads="0" poss_count="0" poss_time="0" score_count="5" score_time="1275" large_lead="0" large_lead_t="-"></special>  
+      <special vh="H" pts_to="9" pts_ch2="5" pts_paint="18" pts_fastb="10" pts_bench="15" ties="0" leads="0" poss_count="0" poss_time="0" score_count="13" score_time="5188" large_lead="41" large_lead_t="4th-02:59"></special>  
+      <summary vh="V" fgm="2" fga="11" fgm3="0" fga3="4" ftm="3" fta="9" blk="0" stl="0" ast="2" oreb="3" dreb="9" treb="12" pf="6" tf="0" to="10"></summary>  
+      <summary vh="H" fgm="11" fga="22" fgm3="2" fga3="6" ftm="2" fta="7" blk="1" stl="9" ast="9" oreb="3" dreb="9" treb="12" pf="6" tf="0" to="2"></summary>  
+      <play vh="V" time="10:00" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:41" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" vscore="42" hscore="65"></play>  
+      <play vh="H" time="09:41" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="ASSIST"></play>  
+      <play vh="V" time="09:41" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL"></play>  
+      <play vh="H" time="09:41" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="FT" vscore="42" hscore="66"></play>  
+      <play vh="V" time="09:34" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="H" time="09:32" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="V" time="09:18" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL"></play>  
+      <play vh="H" time="09:18" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="MISS" type="FT"></play>  
+      <play vh="H" time="09:18" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="09:18" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="GOOD" type="FT" vscore="42" hscore="67"></play>  
+      <play vh="H" time="09:18" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:18" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:18" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:18" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:18" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:18" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:18" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:18" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:18" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:18" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="09:05" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="09:05" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:59" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="TURNOVER"></play>  
+      <play vh="V" time="08:48" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="08:47" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="STEAL"></play>  
+      <play vh="H" time="08:44" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="42" hscore="69"></play>  
+      <play vh="H" time="08:44" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="ASSIST"></play>  
+      <play vh="H" time="08:30" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="FOUL"></play>  
+      <play vh="V" time="08:30" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="43" hscore="69"></play>  
+      <play vh="V" time="08:30" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="FT"></play>  
+      <play vh="H" time="08:30" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:30" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:30" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:30" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:30" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:30" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="08:30" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:30" uni="25" team="WESTFIEL" checkname="BERTHIAUME,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:30" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:30" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:30" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="08:22" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="08:22" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="08:10" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="GOOD" type="3PTR" vscore="43" hscore="72"></play>  
+      <play vh="H" time="08:10" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="ASSIST"></play>  
+      <play vh="V" time="07:56" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="07:56" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:48" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="07:48" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="07:44" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" vscore="43" hscore="74"></play>  
+      <play vh="V" time="07:37" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="FULL"></play>  
+      <play vh="V" time="07:37" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:37" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:37" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:37" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:37" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:37" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:37" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:37" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:37" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:37" uni="21" team="WESTFIEL" checkname="SHELDON,HANNAH" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:37" uni="05" team="WESTFIEL" checkname="WILLIAMS,TAVI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:37" uni="03" team="WESTFIEL" checkname="DEANGELIS,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:34" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="07:33" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="STEAL"></play>  
+      <play vh="H" time="07:28" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="43" hscore="76"></play>  
+      <play vh="H" time="07:28" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="ASSIST"></play>  
+      <play vh="V" time="07:08" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="H" time="07:08" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="STEAL"></play>  
+      <play vh="H" time="07:00" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="07:00" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="06:54" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="FOUL"></play>  
+      <play vh="V" time="06:54" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:54" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:54" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:54" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:54" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:54" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:54" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:54" uni="32" team="WESTFIEL" checkname="GALVANI,CAROLINE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:54" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:54" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:54" uni="01" team="WESTFIEL" checkname="AMES,ASHLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:54" uni="00" team="WESTFIEL" checkname="GARDNER,JESS" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:48" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="06:47" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="STEAL"></play>  
+      <play vh="H" time="06:39" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="06:39" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="06:23" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="06:19" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="STEAL"></play>  
+      <play vh="H" time="06:17" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="43" hscore="78"></play>  
+      <play vh="H" time="06:17" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="ASSIST"></play>  
+      <play vh="V" time="06:09" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:09" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:06" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="06:06" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="05:59" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="GOOD" type="3PTR" vscore="43" hscore="81"></play>  
+      <play vh="H" time="05:59" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="ASSIST"></play>  
+      <play vh="V" time="05:41" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="TURNOVER"></play>  
+      <play vh="H" time="05:39" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="STEAL"></play>  
+      <play vh="H" time="05:35" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="05:35" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="05:26" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:26" uni="11" team="WESTFIEL" checkname="DODGE,TORI" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:26" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:26" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:26" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="IN"></play>  
+      <play vh="H" time="05:26" uni="33" team="WESTFIEL" checkname="GRANT,JORDAN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:26" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:26" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:26" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:26" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="OUT"></play>  
+      <play vh="V" time="05:15" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="H" time="05:14" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="STEAL"></play>  
+      <play vh="H" time="04:56" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="43" hscore="83"></play>  
+      <play vh="H" time="04:56" uni="11" team="WESTFIEL" checkname="DODGE,TORI" action="ASSIST"></play>  
+      <play vh="V" time="04:56" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="FOUL"></play>  
+      <play vh="H" time="04:56" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="MISS" type="FT"></play>  
+      <play vh="V" time="04:56" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:41" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="V" time="04:41" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="04:37" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" paint="Y" vscore="45" hscore="83"></play>  
+      <play vh="V" time="04:37" uni="15" team="ELMS" checkname="BARRON,SHEA" action="ASSIST"></play>  
+      <play vh="V" time="04:37" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="46" hscore="83"></play>  
+      <play vh="H" time="04:34" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:34" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:26" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="H" time="04:26" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="STEAL"></play>  
+      <play vh="H" time="04:22" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="04:22" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="04:19" uni="11" team="WESTFIEL" checkname="DODGE,TORI" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:19" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:05" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="04:05" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="BLOCK"></play>  
+      <play vh="H" time="04:05" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="03:53" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="GOOD" type="LAYUP" paint="Y" vscore="46" hscore="85"></play>  
+      <play vh="V" time="03:32" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="V" time="03:32" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="03:32" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="SUB" type="IN"></play>  
+      <play vh="V" time="03:32" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:16" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="03:16" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="03:06" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP"></play>  
+      <play vh="H" time="03:06" uni="11" team="WESTFIEL" checkname="DODGE,TORI" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:59" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="46" hscore="87"></play>  
+      <play vh="H" time="02:59" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="ASSIST"></play>  
+      <play vh="V" time="02:29" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="87"></play>  
+      <play vh="V" time="02:29" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="H" time="02:10" uni="22" team="WESTFIEL" checkname="POND,MADDIE" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="02:10" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="02:03" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="02:03" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:58" uni="04" team="ELMS" checkname="PACHECO,MIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:58" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:38" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="89"></play>  
+      <play vh="H" time="01:38" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="ASSIST"></play>  
+      <play vh="V" time="01:38" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="FOUL"></play>  
+      <play vh="H" time="01:38" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="MISS" type="FT"></play>  
+      <play vh="V" time="01:38" uni="04" team="ELMS" checkname="PACHECO,MIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:29" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="01:29" uni="04" team="ELMS" checkname="PACHECO,MIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="01:23" uni="15" team="WESTFIEL" checkname="TOLTON,ANAYA" action="FOUL"></play>  
+      <play vh="V" time="01:23" uni="04" team="ELMS" checkname="PACHECO,MIA" action="MISS" type="FT"></play>  
+      <play vh="V" time="01:23" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="01:23" uni="04" team="ELMS" checkname="PACHECO,MIA" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:23" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="01:23" uni="10" team="WESTFIEL" checkname="SANCHEZ,ALEXUS" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:23" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:23" uni="24" team="WESTFIEL" checkname="HADLA,OLIVIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:23" uni="23" team="WESTFIEL" checkname="FOLEY,CAELLEN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:17" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="TURNOVER"></play>  
+      <play vh="H" time="01:17" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="FOUL"></play>  
+      <play vh="V" time="01:17" uni="35" team="ELMS" checkname="MILDNER,STEPHANIE" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:17" uni="34" team="ELMS" checkname="KOCH,AUTUMN" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:02" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="FOUL"></play>  
+      <play vh="V" time="01:02" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="49" hscore="89"></play>  
+      <play vh="V" time="01:02" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:02" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:02" uni="02" team="ELMS" checkname="GUERRIER,PHONIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:02" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:53" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="00:53" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="00:48" uni="50" team="ELMS" checkname="STOKES,DANAJAH" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:48" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:48" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:48" uni="20" team="WESTFIEL" checkname="MCNARY,KIKI" action="SUB" type="OUT"></play>  
+      <play vh="V" time="00:42" uni="04" team="ELMS" checkname="PACHECO,MIA" action="FOUL"></play>  
+      <play vh="H" time="00:42" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="MISS" type="FT"></play>  
+      <play vh="H" time="00:42" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="00:42" uni="02" team="WESTFIEL" checkname="JACKSON,ALEX" action="MISS" type="FT"></play>  
+      <play vh="H" time="00:42" uni="TM" team="WESTFIEL" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="00:15" uni="50" team="ELMS" checkname="STOKES,DANAJAH" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="00:15" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="00:15" uni="11" team="WESTFIEL" checkname="DODGE,TORI" action="FOUL"></play>  
+      <play vh="V" time="00:15" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="MISS" type="FT"></play>  
+      <play vh="V" time="00:15" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="00:15" uni="32" team="ELMS" checkname="SCOTT,TA'NIYAH" action="MISS" type="FT"></play>  
+      <play vh="H" time="00:15" uni="12" team="WESTFIEL" checkname="DOWNIE,KAYLEY" action="REBOUND" type="DEF"></play>  
+      <clock time="00:00"></clock> 
+    </period> 
+  </plays> 
+</bbgame>
+
+
+

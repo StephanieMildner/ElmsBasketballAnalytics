@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bbgame source="Genius sports" version="0.0.1" generated="Feb 4, 2025"> 
+  <venue gameid="Nor-Elms" visid="Nor" visname="Norwich" homeid="Elms" homename="Elms" date="2/4/2025" location="Picknelly Arena, Chicopee, MA" time="5:00 pm" attend="96" leaguegame="Y" neutralgame="N" nitegame="Y" postseason="N" schednote=""> 
+    <officials text=""></officials>  
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"></rules> 
+  </venue>  
+  <status complete="Y" manualbox="Y"></status>  
+  <team vh="V" id="Nor" code="511" name="Norwich" record="8-11,2-7 Great Northeast"> 
+    <linescore line="15, 22, 15, 20" score="72"> 
+      <lineprd prd="1" score="15"></lineprd>  
+      <lineprd prd="2" score="22"></lineprd>  
+      <lineprd prd="3" score="15"></lineprd>  
+      <lineprd prd="4" score="20"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="29" fga="70" fgm3="7" fga3="23" ftm="7" fta="10" tp="72" blk="3" stl="14" ast="17" min="200" oreb="10" dreb="21" treb="31" pf="18" tf="0" to="20" dq="0" deadball="4,6"></stats>  
+      <special vh="V" pts_to="19" pts_ch2="10" pts_paint="28" pts_fastb="11" pts_bench="19" ties="6" leads="9"></special> 
+    </totals>  
+    <player uni="03" code="03" name="Hadunnetthi Rannuluge,Shenale" checkname="HADUNNETTHI RANNULUGE,SHENALE" gp="1" pos="G" playerId="zs4s07irsnptlpx5"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="2" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="05" code="05" name="Chalmers,Mallorie" checkname="CHALMERS,MALLORIE" gp="1" pos="G" playerId="txwh85r9p4pjtyi1"> 
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="4" fta="5" tp="6" blk="0" stl="0" ast="1" min="15" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats> 
+    </player>  
+    <player uni="10" code="10" name="Ortiz,Madeline" checkname="ORTIZ,MADELINE" gp="0" pos="G"></player>  
+    <player uni="11" code="11" name="Briggs,Lily" checkname="BRIGGS,LILY" gp="1" pos="G" playerId="y3gxtxvsrzuede6h"> 
+      <stats fgm="4" fga="12" fgm3="3" fga3="8" ftm="0" fta="0" tp="11" blk="0" stl="4" ast="3" min="23" oreb="2" dreb="2" treb="4" pf="3" tf="0" to="2" dq="0"></stats> 
+    </player>  
+    <player uni="12" code="12" name="Reeve,Morgan" checkname="REEVE,MORGAN" gp="1" pos="G" playerId="0wjby8esh6wj6xdc"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats> 
+    </player>  
+    <player uni="15" code="15" name="Thomas,Erika" checkname="THOMAS,ERIKA" gp="1" pos="G" playerId="2l3w6x4fkvioqngo"> 
+      <stats fgm="0" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="21" code="21" name="O'Donnell,Siobhan" checkname="O'DONNELL,SIOBHAN" gp="1" gs="1" pos="G" playerId="fahhuc3x9bvalluo"> 
+      <stats fgm="2" fga="6" fgm3="0" fga3="1" ftm="0" fta="0" tp="4" blk="0" stl="4" ast="4" min="30" oreb="1" dreb="2" treb="3" pf="2" tf="0" to="6" dq="0"></stats> 
+    </player>  
+    <player uni="23" code="23" name="Zimmerman,Jessie" checkname="ZIMMERMAN,JESSIE" gp="1" gs="1" pos="G" playerId="rlo4y830f6h4x8y1"> 
+      <stats fgm="0" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="2" stl="0" ast="3" min="20" oreb="1" dreb="5" treb="6" pf="2" tf="0" to="0" dq="0"></stats> 
+    </player>  
+    <player uni="30" code="30" name="Brewster,Haley" checkname="BREWSTER,HALEY" gp="1" gs="1" pos="G" playerId="blflkxijaqz2cb05"> 
+      <stats fgm="6" fga="16" fgm3="4" fga3="11" ftm="0" fta="0" tp="16" blk="0" stl="4" ast="3" min="33" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="3" dq="0"></stats> 
+    </player>  
+    <player uni="31" code="31" name="O'Brien,Kiley" checkname="O'BRIEN,KILEY" gp="1" gs="1" pos="F" playerId="tkj6cti282g3e11c"> 
+      <stats fgm="5" fga="9" fgm3="0" fga3="1" ftm="0" fta="0" tp="10" blk="1" stl="0" ast="3" min="29" oreb="0" dreb="4" treb="4" pf="4" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="32" code="32" name="Collins,Eleonore" checkname="COLLINS,ELEONORE" gp="0" pos="F"></player>  
+    <player uni="33" code="33" name="MacAuley,Sage" checkname="MACAULEY,SAGE" gp="1" pos="G" playerId="uk0m6a9rd12bfmmv"> 
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="2" tp="2" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="34" code="34" name="McGinn,Maren" checkname="MCGINN,MAREN" gp="1" gs="1" pos="F" playerId="cc5hzfem00pnwv39"> 
+      <stats fgm="10" fga="16" fgm3="0" fga3="0" ftm="3" fta="3" tp="23" blk="0" stl="1" ast="0" min="26" oreb="4" dreb="4" treb="8" pf="4" tf="0" to="3" dq="0"></stats> 
+    </player>  
+    <player uni="35" code="35" name="Dwinell,Paige" checkname="DWINELL,PAIGE" gp="1" pos="F" playerId="wsqp6ip2bghlmifn"> 
+      <stats fgm="0" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></stats> 
+    </player> 
+  </team>  
+  <team vh="H" id="Elms" code="532" name="Elms" record="7-13,4-5 Great Northeast"> 
+    <linescore line="14, 26, 19, 22" score="81"> 
+      <lineprd prd="1" score="14"></lineprd>  
+      <lineprd prd="2" score="26"></lineprd>  
+      <lineprd prd="3" score="19"></lineprd>  
+      <lineprd prd="4" score="22"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="25" fga="63" fgm3="15" fga3="31" ftm="16" fta="19" tp="81" blk="3" stl="10" ast="18" min="200" oreb="11" dreb="24" treb="35" pf="14" tf="0" to="23" dq="0" deadball="3,6"></stats>  
+      <special vh="H" pts_to="24" pts_ch2="6" pts_paint="18" pts_fastb="8" pts_bench="24" ties="6" leads="9"></special> 
+    </totals>  
+    <player uni="01" code="01" name="Smith,Heaven" checkname="SMITH,HEAVEN" gp="0" pos=""></player>  
+    <player uni="02" code="02" name="Guerrier,Phonia" checkname="GUERRIER,PHONIA" gp="0" pos=""></player>  
+    <player uni="04" code="04" name="Pacheco,Mia" checkname="PACHECO,MIA" gp="0" pos=""></player>  
+    <player uni="10" code="10" name="Turco,Mary" checkname="TURCO,MARY" gp="1" gs="1" pos="" playerId="f69sov820l921tma"> 
+      <stats fgm="5" fga="11" fgm3="0" fga3="0" ftm="2" fta="2" tp="12" blk="0" stl="1" ast="2" min="23" oreb="3" dreb="6" treb="9" pf="3" tf="0" to="5" dq="0"></stats> 
+    </player>  
+    <player uni="11" code="11" name="Wasiewicz,Gabby" checkname="WASIEWICZ,GABBY" gp="1" pos="" playerId="21n2havth4q90jbl"> 
+      <stats fgm="5" fga="10" fgm3="5" fga3="10" ftm="0" fta="0" tp="15" blk="0" stl="1" ast="0" min="15" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="12" code="12" name="Lewis,Jade" checkname="LEWIS,JADE" gp="1" gs="1" pos="G" playerId="a9up3pha0i7k67s0"> 
+      <stats fgm="4" fga="15" fgm3="4" fga3="7" ftm="3" fta="4" tp="15" blk="0" stl="2" ast="3" min="36" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="8" dq="0"></stats> 
+    </player>  
+    <player uni="13" code="13" name="Uribe,Talia" checkname="URIBE,TALIA" gp="1" gs="1" pos="G" playerId="dtut13dpcksp18p5"> 
+      <stats fgm="0" fga="1" fgm3="0" fga3="0" ftm="2" fta="2" tp="2" blk="2" stl="2" ast="3" min="20" oreb="0" dreb="2" treb="2" pf="4" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="14" code="14" name="Gorski,Jenny" checkname="GORSKI,JENNY" gp="1" pos="F" playerId="eu8jnuhy7t667nan"> 
+      <stats fgm="1" fga="3" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="1" stl="1" ast="2" min="17" oreb="4" dreb="4" treb="8" pf="2" tf="0" to="2" dq="0"></stats> 
+    </player>  
+    <player uni="15" code="15" name="Barron,Shea" checkname="BARRON,SHEA" gp="1" pos="F" playerId="gwmad4q4d1h2qyaw"> 
+      <stats fgm="2" fga="4" fgm3="2" fga3="4" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="1" min="24" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="20" code="20" name="LeBel,Kelly" checkname="LEBEL,KELLY" gp="1" pos="G" playerId="pl7s2yw08110wdi6"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></stats> 
+    </player>  
+    <player uni="22" code="22" name="Johnston,Rahmia" checkname="JOHNSTON,RAHMIA" gp="1" gs="1" pos="G" playerId="t0srz8x5yym30anx"> 
+      <stats fgm="4" fga="13" fgm3="1" fga3="6" ftm="8" fta="9" tp="17" blk="0" stl="1" ast="3" min="37" oreb="1" dreb="6" treb="7" pf="1" tf="0" to="1" dq="0"></stats> 
+    </player>  
+    <player uni="23" code="23" name="Graham,Piper" checkname="GRAHAM,PIPER" gp="1" gs="1" pos="G" playerId="vd1e6gtjw0a6zplo"> 
+      <stats fgm="4" fga="6" fgm3="3" fga3="4" ftm="0" fta="0" tp="11" blk="0" stl="2" ast="4" min="26" oreb="2" dreb="1" treb="3" pf="0" tf="0" to="3" dq="0"></stats> 
+    </player>  
+    <player uni="24" code="24" name="Andrade,Sophia" checkname="ANDRADE,SOPHIA" gp="0" pos="G"></player>  
+    <player uni="44" code="44" name="Mildner,Stephanie" checkname="MILDNER,STEPHANIE" gp="0" pos=""></player>  
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1"> 
+      <stats oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></stats> 
+    </player> 
+  </team>  
+  <plays format="tokens"> 
+    <period number="1" time="10:00"> 
+      <special vh="H" pts_to="3" pts_ch2="3" pts_paint="2" pts_fastb="3" pts_bench="3" ties="1" leads="2"></special>  
+      <special vh="V" pts_to="7" pts_ch2="3" pts_paint="8" pts_fastb="4" pts_bench="0" ties="1" leads="2"></special>  
+      <summary vh="H" fgm="5" fga="18" fgm3="4" fga3="11" ftm="0" fta="0" blk="3" stl="5" ast="5" oreb="6" dreb="6" treb="12" pf="2" tf="0" to="9"></summary>  
+      <summary vh="V" fgm="7" fga="18" fgm3="1" fga3="4" ftm="0" fta="0" blk="1" stl="7" ast="4" oreb="3" dreb="5" treb="8" pf="3" tf="0" to="7"></summary>  
+      <play vh="V" time="09:41" uni="34" team="Nor" checkname="MCGINN,MAREN" action="TURNOVER"></play>  
+      <play vh="H" time="09:41" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="STEAL"></play>  
+      <play vh="H" time="09:36" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="TURNOVER"></play>  
+      <play vh="V" time="09:29" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="2" hscore="0"></play>  
+      <play vh="H" time="09:03" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="LAYUP" paint="Y" vscore="2" hscore="2"></play>  
+      <play vh="H" time="09:03" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="ASSIST"></play>  
+      <play vh="V" time="08:48" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="08:44" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:40" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="08:37" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:21" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="GOOD" type="JUMPER" vscore="4" hscore="2"></play>  
+      <play vh="V" time="08:21" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="ASSIST"></play>  
+      <play vh="H" time="07:59" uni="10" team="Elms" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="07:59" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="STEAL"></play>  
+      <play vh="V" time="07:52" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="07:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="07:42" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="3PTR" vscore="7" hscore="2"></play>  
+      <play vh="V" time="07:42" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="ASSIST"></play>  
+      <play vh="H" time="07:26" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="GOOD" type="3PTR" vscore="7" hscore="5"></play>  
+      <play vh="H" time="07:26" uni="13" team="Elms" checkname="URIBE,TALIA" action="ASSIST"></play>  
+      <play vh="H" time="07:02" uni="10" team="Elms" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="H" time="07:02" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:02" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:02" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:02" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:47" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="GOOD" type="LAYUP" paint="Y" vscore="9" hscore="5"></play>  
+      <play vh="H" time="06:27" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="06:27" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="STEAL"></play>  
+      <play vh="V" time="06:27" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="FOUL"></play>  
+      <play vh="V" time="06:27" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="H" time="06:05" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="05:59" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:53" uni="34" team="Nor" checkname="MCGINN,MAREN" action="TURNOVER"></play>  
+      <play vh="H" time="05:53" uni="14" team="Elms" checkname="GORSKI,JENNY" action="STEAL"></play>  
+      <play vh="H" time="05:46" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="05:41" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:39" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="05:37" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:30" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="H" time="05:30" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="STEAL"></play>  
+      <play vh="H" time="05:23" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="05:23" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="STEAL"></play>  
+      <play vh="V" time="05:20" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="11" hscore="5"></play>  
+      <play vh="H" time="05:08" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="05:04" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:01" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="05:01" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="BLOCK"></play>  
+      <play vh="V" time="04:51" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:50" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="GOOD" type="JUMPER" vscore="13" hscore="5"></play>  
+      <play vh="V" time="04:50" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="ASSIST"></play>  
+      <play vh="H" time="04:43" uni="TM" team="Elms" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="H" time="04:43" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:43" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:43" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:43" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:43" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:43" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:43" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:43" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:43" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:43" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:43" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:43" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:30" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:25" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="04:23" uni="14" team="Elms" checkname="GORSKI,JENNY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="04:23" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="04:10" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="TURNOVER"></play>  
+      <play vh="H" time="04:10" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:10" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:55" uni="15" team="Elms" checkname="BARRON,SHEA" action="TURNOVER"></play>  
+      <play vh="V" time="03:55" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="STEAL"></play>  
+      <play vh="V" time="03:51" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="TURNOVER"></play>  
+      <play vh="H" time="03:51" uni="13" team="Elms" checkname="URIBE,TALIA" action="STEAL"></play>  
+      <play vh="H" time="03:37" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="03:33" uni="11" team="Nor" checkname="BRIGGS,LILY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="03:21" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="03:17" uni="13" team="Elms" checkname="URIBE,TALIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="03:13" uni="13" team="Elms" checkname="URIBE,TALIA" action="TURNOVER"></play>  
+      <play vh="V" time="03:13" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="STEAL"></play>  
+      <play vh="V" time="03:05" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="03:00" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:51" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="02:47" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:47" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:47" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:47" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:47" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:47" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:47" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:37" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="3PTR" vscore="13" hscore="8"></play>  
+      <play vh="H" time="02:37" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="ASSIST"></play>  
+      <play vh="V" time="02:29" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="MISS" type="JUMPER" paint="Y"></play>  
+      <play vh="H" time="02:29" uni="13" team="Elms" checkname="URIBE,TALIA" action="BLOCK"></play>  
+      <play vh="V" time="02:29" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="02:25" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="02:23" uni="11" team="Nor" checkname="BRIGGS,LILY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="02:20" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="02:17" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:09" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="GOOD" type="3PTR" vscore="13" hscore="11"></play>  
+      <play vh="H" time="02:09" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="ASSIST"></play>  
+      <play vh="V" time="01:59" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="01:56" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="01:44" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="01:41" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="01:36" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="FOUL"></play>  
+      <play vh="H" time="01:36" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:36" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:36" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:36" uni="35" team="Nor" checkname="DWINELL,PAIGE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:36" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:36" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:36" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="H" time="01:30" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="TURNOVER"></play>  
+      <play vh="V" time="01:28" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="JUMPER" paint="Y"></play>  
+      <play vh="H" time="01:28" uni="13" team="Elms" checkname="URIBE,TALIA" action="BLOCK"></play>  
+      <play vh="H" time="01:27" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:27" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="FOUL"></play>  
+      <play vh="H" time="01:21" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="01:21" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="STEAL"></play>  
+      <play vh="V" time="01:17" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="TURNOVER"></play>  
+      <play vh="H" time="01:17" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="STEAL"></play>  
+      <play vh="H" time="01:10" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="GOOD" type="3PTR" fastb="Y" vscore="13" hscore="14"></play>  
+      <play vh="H" time="01:10" uni="13" team="Elms" checkname="URIBE,TALIA" action="ASSIST"></play>  
+      <play vh="V" time="00:52" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="15" hscore="14"></play>  
+      <play vh="V" time="00:52" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="ASSIST"></play>  
+      <play vh="H" time="00:39" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="00:39" uni="11" team="Nor" checkname="BRIGGS,LILY" action="STEAL"></play>  
+      <play vh="V" time="00:34" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="00:34" uni="14" team="Elms" checkname="GORSKI,JENNY" action="BLOCK"></play>  
+      <play vh="V" time="00:31" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="00:31" uni="13" team="Elms" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="00:31" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:31" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:31" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:31" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:31" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="00:31" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="00:31" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:31" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:26" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="00:23" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="00:12" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="00:10" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="00:06" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER" paint="Y"></play>  
+      <play vh="V" time="00:00" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="2" time="10:00"> 
+      <special vh="H" pts_to="9" pts_ch2="0" pts_paint="6" pts_fastb="0" pts_bench="17" ties="5" leads="7"></special>  
+      <special vh="V" pts_to="10" pts_ch2="3" pts_paint="10" pts_fastb="2" pts_bench="7" ties="5" leads="7"></special>  
+      <summary vh="H" fgm="9" fga="14" fgm3="6" fga3="9" ftm="2" fta="2" blk="0" stl="1" ast="7" oreb="1" dreb="6" treb="7" pf="4" tf="0" to="7"></summary>  
+      <summary vh="V" fgm="9" fga="16" fgm3="2" fga3="5" ftm="2" fta="2" blk="0" stl="3" ast="4" oreb="1" dreb="3" treb="4" pf="2" tf="0" to="7"></summary>  
+      <play vh="V" time="09:55" uni="11" team="Nor" checkname="BRIGGS,LILY" action="TURNOVER"></play>  
+      <play vh="H" time="09:41" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="GOOD" type="3PTR" vscore="15" hscore="17"></play>  
+      <play vh="H" time="09:41" uni="10" team="Elms" checkname="TURCO,MARY" action="ASSIST"></play>  
+      <play vh="H" time="09:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="09:36" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="V" time="09:36" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="09:36" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="IN"></play>  
+      <play vh="V" time="09:16" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="09:16" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="09:16" uni="10" team="Elms" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="09:03" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="09:02" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="09:02" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="TIPIN" paint="Y" vscore="17" hscore="17"></play>  
+      <play vh="H" time="09:02" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="FOUL"></play>  
+      <play vh="V" time="09:02" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="09:02" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="IN"></play>  
+      <play vh="V" time="09:02" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="FT" vscore="18" hscore="17"></play>  
+      <play vh="H" time="08:45" uni="15" team="Elms" checkname="BARRON,SHEA" action="GOOD" type="3PTR" vscore="18" hscore="20"></play>  
+      <play vh="H" time="08:45" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="ASSIST"></play>  
+      <play vh="V" time="08:31" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="JUMPER" vscore="20" hscore="20"></play>  
+      <play vh="H" time="08:15" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="08:15" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="STEAL"></play>  
+      <play vh="V" time="08:00" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="22" hscore="20"></play>  
+      <play vh="H" time="07:44" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="LAYUP" paint="Y" vscore="22" hscore="22"></play>  
+      <play vh="V" time="07:34" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="07:31" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:20" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="07:18" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="07:07" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="GOOD" type="JUMPER" vscore="24" hscore="22"></play>  
+      <play vh="V" time="07:07" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="ASSIST"></play>  
+      <play vh="V" time="06:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="FOUL"></play>  
+      <play vh="H" time="06:48" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:48" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:48" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:48" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:48" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:48" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="FT" vscore="24" hscore="23"></play>  
+      <play vh="H" time="06:48" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="FT" vscore="24" hscore="24"></play>  
+      <play vh="H" time="06:48" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:48" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:30" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="TURNOVER"></play>  
+      <play vh="H" time="06:20" uni="12" team="Elms" checkname="LEWIS,JADE" action="FOUL"></play>  
+      <play vh="H" time="06:20" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="06:13" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="3PTR" vscore="27" hscore="24"></play>  
+      <play vh="V" time="06:13" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="ASSIST"></play>  
+      <play vh="H" time="05:55" uni="14" team="Elms" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" paint="Y" vscore="27" hscore="26"></play>  
+      <play vh="H" time="05:55" uni="13" team="Elms" checkname="URIBE,TALIA" action="ASSIST"></play>  
+      <play vh="H" time="05:31" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="05:31" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="SUB" type="IN"></play>  
+      <play vh="V" time="05:31" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="05:31" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="IN"></play>  
+      <play vh="V" time="05:30" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="TURNOVER"></play>  
+      <play vh="H" time="05:08" uni="15" team="Elms" checkname="BARRON,SHEA" action="GOOD" type="3PTR" vscore="27" hscore="29"></play>  
+      <play vh="H" time="05:08" uni="14" team="Elms" checkname="GORSKI,JENNY" action="ASSIST"></play>  
+      <play vh="V" time="04:55" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="GOOD" type="LAYUP" paint="Y" vscore="29" hscore="29"></play>  
+      <play vh="H" time="04:55" uni="13" team="Elms" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="04:55" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:55" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:55" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:55" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:55" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="GOOD" type="FT" vscore="30" hscore="29"></play>  
+      <play vh="H" time="04:47" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="GOOD" type="3PTR" vscore="30" hscore="32"></play>  
+      <play vh="H" time="04:47" uni="12" team="Elms" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="V" time="04:21" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:18" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="04:09" uni="15" team="Elms" checkname="BARRON,SHEA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:05" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="04:04" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="04:01" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="03:57" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:57" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="V" time="03:57" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="03:57" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="V" time="03:57" uni="TM" team="Nor" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="V" time="03:47" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="03:44" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="03:37" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" paint="Y" vscore="30" hscore="34"></play>  
+      <play vh="V" time="03:25" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="V" time="03:25" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="03:25" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:04" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="GOOD" type="3PTR" vscore="30" hscore="37"></play>  
+      <play vh="H" time="03:04" uni="10" team="Elms" checkname="TURCO,MARY" action="ASSIST"></play>  
+      <play vh="V" time="02:51" uni="TM" team="Nor" checkname="TEAM" action="TURNOVER"></play>  
+      <play vh="H" time="02:51" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:51" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:34" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="02:34" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="02:34" uni="12" team="Elms" checkname="LEWIS,JADE" action="FOUL"></play>  
+      <play vh="V" time="02:28" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="32" hscore="37"></play>  
+      <play vh="V" time="02:28" uni="11" team="Nor" checkname="BRIGGS,LILY" action="ASSIST"></play>  
+      <play vh="H" time="02:17" uni="10" team="Elms" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="H" time="02:17" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:17" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:17" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:17" uni="20" team="Elms" checkname="LEBEL,KELLY" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:57" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="01:50" uni="20" team="Elms" checkname="LEBEL,KELLY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="01:32" uni="14" team="Elms" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="V" time="01:32" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="STEAL"></play>  
+      <play vh="V" time="01:27" uni="11" team="Nor" checkname="BRIGGS,LILY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="34" hscore="37"></play>  
+      <play vh="V" time="01:27" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="ASSIST"></play>  
+      <play vh="H" time="01:19" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="TURNOVER"></play>  
+      <play vh="V" time="01:19" uni="11" team="Nor" checkname="BRIGGS,LILY" action="STEAL"></play>  
+      <play vh="V" time="01:04" uni="11" team="Nor" checkname="BRIGGS,LILY" action="TURNOVER"></play>  
+      <play vh="H" time="01:04" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="STEAL"></play>  
+      <play vh="H" time="00:57" uni="TM" team="Elms" checkname="TEAM" action="TURNOVER"></play>  
+      <play vh="H" time="00:57" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:57" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:51" uni="34" team="Nor" checkname="MCGINN,MAREN" action="FOUL"></play>  
+      <play vh="V" time="00:51" uni="34" team="Nor" checkname="MCGINN,MAREN" action="TURNOVER"></play>  
+      <play vh="V" time="00:51" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="00:51" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:29" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="00:24" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="00:21" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="00:18" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="00:10" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="GOOD" type="3PTR" vscore="34" hscore="40"></play>  
+      <play vh="H" time="00:10" uni="15" team="Elms" checkname="BARRON,SHEA" action="ASSIST"></play>  
+      <play vh="V" time="00:00" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="3PTR" vscore="37" hscore="40"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="3" time="10:00"> 
+      <special vh="H" pts_to="5" pts_ch2="3" pts_paint="4" pts_fastb="1" pts_bench="1" ties="0" leads="0"></special>  
+      <special vh="V" pts_to="0" pts_ch2="2" pts_paint="6" pts_fastb="0" pts_bench="5" ties="0" leads="0"></special>  
+      <summary vh="H" fgm="6" fga="17" fgm3="3" fga3="5" ftm="4" fta="6" blk="0" stl="1" ast="4" oreb="3" dreb="4" treb="7" pf="3" tf="0" to="2"></summary>  
+      <summary vh="V" fgm="6" fga="18" fgm3="1" fga3="4" ftm="2" fta="4" blk="1" stl="1" ast="4" oreb="3" dreb="6" treb="9" pf="5" tf="0" to="2"></summary>  
+      <play vh="H" time="10:00" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="10:00" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="10:00" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="10:00" uni="20" team="Elms" checkname="LEBEL,KELLY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="10:00" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="H" time="10:00" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="IN"></play>  
+      <play vh="H" time="10:00" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="10:00" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="V" time="09:47" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="09:42" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="09:34" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="09:31" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="09:11" uni="10" team="Elms" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="09:11" uni="34" team="Nor" checkname="MCGINN,MAREN" action="STEAL"></play>  
+      <play vh="V" time="08:55" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="08:53" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="08:34" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="GOOD" type="JUMPER" vscore="37" hscore="42"></play>  
+      <play vh="V" time="08:09" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="39" hscore="42"></play>  
+      <play vh="V" time="08:09" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="ASSIST"></play>  
+      <play vh="V" time="07:55" uni="34" team="Nor" checkname="MCGINN,MAREN" action="FOUL"></play>  
+      <play vh="H" time="07:55" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:55" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:55" uni="13" team="Elms" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="39" hscore="43"></play>  
+      <play vh="H" time="07:55" uni="13" team="Elms" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="39" hscore="44"></play>  
+      <play vh="V" time="07:48" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="07:44" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="07:39" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="07:35" uni="12" team="Elms" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:27" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="07:24" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:17" uni="13" team="Elms" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="07:17" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:17" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:02" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="H" time="07:02" uni="10" team="Elms" checkname="TURCO,MARY" action="STEAL"></play>  
+      <play vh="H" time="06:57" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="06:52" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="06:52" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="TIPIN" paint="Y" vscore="39" hscore="46"></play>  
+      <play vh="V" time="06:35" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="41" hscore="46"></play>  
+      <play vh="V" time="06:35" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="ASSIST"></play>  
+      <play vh="H" time="06:22" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="06:19" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="06:07" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="JUMPER" vscore="43" hscore="46"></play>  
+      <play vh="H" time="05:52" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="05:47" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:47" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="TIPIN" paint="Y"></play>  
+      <play vh="V" time="05:44" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:31" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="05:29" uni="10" team="Elms" checkname="TURCO,MARY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="05:18" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="05:13" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:01" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="04:55" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="04:55" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="TIPIN" paint="Y" vscore="45" hscore="46"></play>  
+      <play vh="H" time="04:55" uni="TM" team="Elms" checkname="TEAM" action="TIMEOUT" type="TEAM"></play>  
+      <play vh="H" time="04:55" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:55" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:55" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:55" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:55" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:55" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:36" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="04:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="04:36" uni="34" team="Nor" checkname="MCGINN,MAREN" action="FOUL"></play>  
+      <play vh="H" time="04:36" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="04:36" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="V" time="04:36" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:36" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="04:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="MISS" type="FT"></play>  
+      <play vh="H" time="04:36" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="04:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="GOOD" type="FT" vscore="45" hscore="47"></play>  
+      <play vh="V" time="04:25" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="TURNOVER"></play>  
+      <play vh="H" time="04:14" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="3PTR" vscore="45" hscore="50"></play>  
+      <play vh="H" time="04:14" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="V" time="03:56" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="03:43" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="03:35" uni="14" team="Elms" checkname="GORSKI,JENNY" action="MISS" type="JUMPER" paint="Y"></play>  
+      <play vh="V" time="03:35" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="BLOCK"></play>  
+      <play vh="V" time="03:35" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="03:27" uni="14" team="Elms" checkname="GORSKI,JENNY" action="FOUL"></play>  
+      <play vh="V" time="03:27" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="MISS" type="FT" fastb="Y"></play>  
+      <play vh="V" time="03:27" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="03:27" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="MISS" type="FT" fastb="Y"></play>  
+      <play vh="V" time="03:27" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="03:13" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="03:11" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="03:11" uni="33" team="Nor" checkname="MACAULEY,SAGE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="03:11" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:02" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="3PTR" vscore="45" hscore="53"></play>  
+      <play vh="H" time="03:02" uni="12" team="Elms" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="V" time="03:02" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="FOUL"></play>  
+      <play vh="H" time="02:47" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="02:44" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="02:33" uni="11" team="Nor" checkname="BRIGGS,LILY" action="GOOD" type="3PTR" vscore="48" hscore="53"></play>  
+      <play vh="V" time="02:33" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="ASSIST"></play>  
+      <play vh="H" time="02:19" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="02:16" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="02:16" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:16" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:16" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:16" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:06" uni="10" team="Elms" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="V" time="02:06" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="GOOD" type="FT" vscore="49" hscore="53"></play>  
+      <play vh="V" time="02:06" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="GOOD" type="FT" vscore="50" hscore="53"></play>  
+      <play vh="V" time="02:06" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:06" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:58" uni="11" team="Nor" checkname="BRIGGS,LILY" action="FOUL"></play>  
+      <play vh="H" time="01:48" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="55"></play>  
+      <play vh="H" time="01:48" uni="12" team="Elms" checkname="LEWIS,JADE" action="ASSIST"></play>  
+      <play vh="V" time="01:31" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="01:27" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="01:19" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="3PTR" vscore="50" hscore="58"></play>  
+      <play vh="H" time="01:19" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="V" time="01:01" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="GOOD" type="JUMPER" vscore="52" hscore="58"></play>  
+      <play vh="V" time="01:01" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="ASSIST"></play>  
+      <play vh="H" time="00:48" uni="13" team="Elms" checkname="URIBE,TALIA" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="00:45" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="H" time="00:39" uni="10" team="Elms" checkname="TURCO,MARY" action="TURNOVER"></play>  
+      <play vh="V" time="00:15" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="JUMPER"></play>  
+      <play vh="V" time="00:12" uni="11" team="Nor" checkname="BRIGGS,LILY" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="00:03" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="00:02" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="00:02" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="FOUL"></play>  
+      <play vh="H" time="00:02" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="FT" fastb="Y" vscore="52" hscore="59"></play>  
+      <play vh="H" time="00:02" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="FT" fastb="Y"></play>  
+      <play vh="V" time="00:01" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="REBOUND" type="DEF"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="4" time="10:00"> 
+      <special vh="H" pts_to="7" pts_ch2="0" pts_paint="6" pts_fastb="4" pts_bench="3" ties="0" leads="0"></special>  
+      <special vh="V" pts_to="2" pts_ch2="2" pts_paint="4" pts_fastb="5" pts_bench="7" ties="0" leads="0"></special>  
+      <summary vh="H" fgm="5" fga="14" fgm3="2" fga3="6" ftm="10" fta="11" blk="0" stl="3" ast="2" oreb="1" dreb="8" treb="9" pf="5" tf="0" to="5"></summary>  
+      <summary vh="V" fgm="7" fga="18" fgm3="3" fga3="10" ftm="3" fta="4" blk="1" stl="3" ast="5" oreb="3" dreb="7" treb="10" pf="8" tf="0" to="4"></summary>  
+      <play vh="H" time="10:00" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="10:00" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="10:00" uni="12" team="Nor" checkname="REEVE,MORGAN" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="IN"></play>  
+      <play vh="V" time="10:00" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="V" time="09:46" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="09:32" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="09:31" uni="12" team="Nor" checkname="REEVE,MORGAN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="09:31" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="09:27" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="TURNOVER"></play>  
+      <play vh="V" time="09:27" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="09:24" uni="14" team="Elms" checkname="GORSKI,JENNY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="09:21" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="09:17" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="09:10" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="H" time="09:10" uni="13" team="Elms" checkname="URIBE,TALIA" action="STEAL"></play>  
+      <play vh="H" time="09:02" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="09:02" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="BLOCK"></play>  
+      <play vh="V" time="08:56" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="08:53" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="08:50" uni="12" team="Elms" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="08:32" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="61"></play>  
+      <play vh="V" time="08:12" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="08:09" uni="13" team="Elms" checkname="URIBE,TALIA" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:59" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="3PTR" vscore="52" hscore="64"></play>  
+      <play vh="H" time="07:59" uni="14" team="Elms" checkname="GORSKI,JENNY" action="ASSIST"></play>  
+      <play vh="V" time="07:49" uni="34" team="Nor" checkname="MCGINN,MAREN" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="H" time="07:46" uni="12" team="Elms" checkname="LEWIS,JADE" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="07:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="FOUL"></play>  
+      <play vh="H" time="07:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="TURNOVER"></play>  
+      <play vh="H" time="07:36" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:36" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="07:36" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="H" time="07:36" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:36" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="07:36" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="IN"></play>  
+      <play vh="V" time="07:26" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="TURNOVER"></play>  
+      <play vh="H" time="07:26" uni="12" team="Elms" checkname="LEWIS,JADE" action="STEAL"></play>  
+      <play vh="H" time="07:11" uni="10" team="Elms" checkname="TURCO,MARY" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="66"></play>  
+      <play vh="V" time="06:45" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="LAYUP" paint="Y" vscore="54" hscore="66"></play>  
+      <play vh="H" time="06:27" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="06:27" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="IN"></play>  
+      <play vh="V" time="06:27" uni="15" team="Nor" checkname="THOMAS,ERIKA" action="SUB" type="OUT"></play>  
+      <play vh="V" time="06:27" uni="11" team="Nor" checkname="BRIGGS,LILY" action="SUB" type="IN"></play>  
+      <play vh="H" time="06:21" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="06:08" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="06:03" uni="11" team="Nor" checkname="BRIGGS,LILY" action="GOOD" type="3PTR" vscore="57" hscore="66"></play>  
+      <play vh="V" time="06:03" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="ASSIST"></play>  
+      <play vh="H" time="05:53" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="05:50" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="05:45" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="05:42" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="REBOUND" type="DEF"></play>  
+      <play vh="H" time="05:42" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="FOUL"></play>  
+      <play vh="V" time="05:30" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="05:27" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="05:07" uni="TM" team="Nor" checkname="TEAM" action="TIMEOUT" type="TEAM"></play>  
+      <play vh="V" time="04:59" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="FOUL"></play>  
+      <play vh="H" time="04:40" uni="15" team="Elms" checkname="BARRON,SHEA" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:39" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="04:39" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="FOUL"></play>  
+      <play vh="H" time="04:28" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="04:25" uni="11" team="Nor" checkname="BRIGGS,LILY" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="04:17" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="3PTR"></play>  
+      <play vh="H" time="04:15" uni="TM" team="Elms" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="04:15" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="04:15" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:57" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="03:57" uni="11" team="Nor" checkname="BRIGGS,LILY" action="STEAL"></play>  
+      <play vh="V" time="03:52" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="59" hscore="66"></play>  
+      <play vh="H" time="03:34" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="GOOD" type="3PTR" vscore="59" hscore="69"></play>  
+      <play vh="H" time="03:34" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="ASSIST"></play>  
+      <play vh="V" time="03:22" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="GOOD" type="JUMPER" vscore="61" hscore="69"></play>  
+      <play vh="V" time="03:22" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="ASSIST"></play>  
+      <play vh="H" time="03:14" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="TURNOVER"></play>  
+      <play vh="V" time="03:14" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="STEAL"></play>  
+      <play vh="V" time="03:13" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="TURNOVER"></play>  
+      <play vh="H" time="03:13" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:13" uni="11" team="Elms" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:13" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="OUT"></play>  
+      <play vh="H" time="03:13" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:13" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="H" time="03:13" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:59" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" paint="Y" vscore="61" hscore="71"></play>  
+      <play vh="V" time="02:59" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="FOUL"></play>  
+      <play vh="V" time="02:59" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:59" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:59" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="61" hscore="72"></play>  
+      <play vh="V" time="02:49" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="02:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="02:48" uni="15" team="Elms" checkname="BARRON,SHEA" action="FOUL"></play>  
+      <play vh="V" time="02:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="FT" vscore="62" hscore="72"></play>  
+      <play vh="V" time="02:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="FT" vscore="63" hscore="72"></play>  
+      <play vh="H" time="02:48" uni="15" team="Elms" checkname="BARRON,SHEA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="02:48" uni="12" team="Elms" checkname="LEWIS,JADE" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:48" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:48" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="IN"></play>  
+      <play vh="H" time="02:14" uni="12" team="Elms" checkname="LEWIS,JADE" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="02:12" uni="TM" team="Nor" checkname="TEAM" action="REBOUND" type="DEADB"></play>  
+      <play vh="V" time="02:12" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="OUT"></play>  
+      <play vh="V" time="02:12" uni="34" team="Nor" checkname="MCGINN,MAREN" action="SUB" type="IN"></play>  
+      <play vh="V" time="02:05" uni="34" team="Nor" checkname="MCGINN,MAREN" action="GOOD" type="JUMPER" vscore="65" hscore="72"></play>  
+      <play vh="V" time="02:05" uni="11" team="Nor" checkname="BRIGGS,LILY" action="ASSIST"></play>  
+      <play vh="H" time="01:40" uni="12" team="Elms" checkname="LEWIS,JADE" action="TURNOVER"></play>  
+      <play vh="V" time="01:40" uni="11" team="Nor" checkname="BRIGGS,LILY" action="STEAL"></play>  
+      <play vh="H" time="01:40" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:40" uni="10" team="Elms" checkname="TURCO,MARY" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:30" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="TURNOVER"></play>  
+      <play vh="H" time="01:30" uni="12" team="Elms" checkname="LEWIS,JADE" action="STEAL"></play>  
+      <play vh="V" time="01:26" uni="11" team="Nor" checkname="BRIGGS,LILY" action="FOUL"></play>  
+      <play vh="H" time="01:26" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="65" hscore="73"></play>  
+      <play vh="H" time="01:26" uni="12" team="Elms" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="65" hscore="74"></play>  
+      <play vh="H" time="01:22" uni="13" team="Elms" checkname="URIBE,TALIA" action="FOUL"></play>  
+      <play vh="H" time="01:13" uni="10" team="Elms" checkname="TURCO,MARY" action="FOUL"></play>  
+      <play vh="H" time="01:13" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="OUT"></play>  
+      <play vh="H" time="01:13" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:13" uni="31" team="Nor" checkname="O'BRIEN,KILEY" action="SUB" type="OUT"></play>  
+      <play vh="V" time="01:13" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="SUB" type="IN"></play>  
+      <play vh="V" time="01:08" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="GOOD" type="FT" vscore="66" hscore="74"></play>  
+      <play vh="V" time="01:08" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="MISS" type="FT"></play>  
+      <play vh="H" time="01:08" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="01:08" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="FOUL"></play>  
+      <play vh="H" time="01:08" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" fastb="Y" vscore="66" hscore="75"></play>  
+      <play vh="H" time="01:08" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" fastb="Y" vscore="66" hscore="76"></play>  
+      <play vh="V" time="01:03" uni="11" team="Nor" checkname="BRIGGS,LILY" action="GOOD" type="3PTR" fastb="Y" vscore="69" hscore="76"></play>  
+      <play vh="V" time="01:03" uni="05" team="Nor" checkname="CHALMERS,MALLORIE" action="ASSIST"></play>  
+      <play vh="V" time="00:53" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="FOUL"></play>  
+      <play vh="H" time="00:53" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:53" uni="13" team="Elms" checkname="URIBE,TALIA" action="SUB" type="IN"></play>  
+      <play vh="H" time="00:53" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="69" hscore="77"></play>  
+      <play vh="H" time="00:53" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="69" hscore="78"></play>  
+      <play vh="V" time="00:53" uni="TM" team="Nor" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="V" time="00:45" uni="30" team="Nor" checkname="BREWSTER,HALEY" action="GOOD" type="3PTR" vscore="72" hscore="78"></play>  
+      <play vh="V" time="00:45" uni="11" team="Nor" checkname="BRIGGS,LILY" action="ASSIST"></play>  
+      <play vh="V" time="00:39" uni="11" team="Nor" checkname="BRIGGS,LILY" action="FOUL"></play>  
+      <play vh="H" time="00:39" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" fastb="Y" vscore="72" hscore="79"></play>  
+      <play vh="H" time="00:39" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" fastb="Y" vscore="72" hscore="80"></play>  
+      <play vh="H" time="00:39" uni="14" team="Elms" checkname="GORSKI,JENNY" action="SUB" type="OUT"></play>  
+      <play vh="H" time="00:39" uni="23" team="Elms" checkname="GRAHAM,PIPER" action="SUB" type="IN"></play>  
+      <play vh="V" time="00:39" uni="TM" team="Nor" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="V" time="00:33" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="JUMPER"></play>  
+      <play vh="H" time="00:31" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="00:21" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="FOUL"></play>  
+      <play vh="H" time="00:21" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="72" hscore="81"></play>  
+      <play vh="H" time="00:21" uni="22" team="Elms" checkname="JOHNSTON,RAHMIA" action="MISS" type="FT"></play>  
+      <play vh="V" time="00:20" uni="21" team="Nor" checkname="O'DONNELL,SIOBHAN" action="REBOUND" type="DEF"></play>  
+      <play vh="V" time="00:18" uni="TM" team="Nor" checkname="TEAM" action="TIMEOUT" type="TEAM"></play>  
+      <play vh="V" time="00:13" uni="11" team="Nor" checkname="BRIGGS,LILY" action="MISS" type="3PTR"></play>  
+      <play vh="V" time="00:09" uni="03" team="Nor" checkname="HADUNNETTHI RANNULUGE,SHENALE" action="REBOUND" type="OFF"></play>  
+      <play vh="V" time="00:09" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="MISS" type="TIPIN" paint="Y"></play>  
+      <play vh="V" time="00:09" uni="23" team="Nor" checkname="ZIMMERMAN,JESSIE" action="REBOUND" type="OFF"></play>  
+      <play vh="H" time="00:09" uni="TM" team="Elms" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>  
+      <play vh="H" time="00:02" uni="10" team="Elms" checkname="TURCO,MARY" action="MISS" type="LAYUP" paint="Y"></play>  
+      <play vh="V" time="00:00" uni="34" team="Nor" checkname="MCGINN,MAREN" action="REBOUND" type="DEF"></play>  
+      <clock time="00:00"></clock> 
+    </period> 
+  </plays> 
+</bbgame>
+
+
+

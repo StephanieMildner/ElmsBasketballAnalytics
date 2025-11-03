@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bbgame source="Basketball LiveStats In-Arena Tool" toolVersion="2.2.0" version="1.1.1" generated="Feb 12, 2025"> 
+  <venue gameid="5793678" visid="ELMS" visname="Elms" homeid="REGIS" homename="Regis (MA)" date="02/13/2025" location="Higgins Court" start="12:00 AM" attend="57" leaguegame="Y" neutralgame="N" nitegame="N" postseason="N"> 
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"></rules> 
+  </venue>  
+  <status complete="Y" period="4" clock="00:00" running="F"></status>  
+  <team vh="V" code="532" id="ELMS" name="Elms"> 
+    <linescore line="18,17,13,17" score="65"> 
+      <lineprd prd="1" score="18"></lineprd>  
+      <lineprd prd="2" score="17"></lineprd>  
+      <lineprd prd="3" score="13"></lineprd>  
+      <lineprd prd="4" score="17"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="20" fga="64" fgm3="5" fga3="14" ftm="20" fta="23" tp="65" blk="2" stl="4" ast="9" min="200" oreb="18" dreb="41" treb="59" pf="20" tf="0" to="26" dq="0" fgpct="31.3" fg3pct="35.7" ftpct="87"></stats>  
+      <special vh="V" pts_to="10" pts_ch2="13" pts_paint="28" pts_fastb="2" pts_bench="18" ties="3" leads="5" lead_time="2023" large_lead="9"></special>  
+      <statsbyprd prd="1" fgm="7" fga="23" fgm3="3" fga3="6" ftm="1" fta="2" tp="18" blk="1" stl="2" ast="5" min="50" oreb="7" dreb="11" treb="18" pf="5" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="5" fga="14" fgm3="1" fga3="3" ftm="6" fta="8" tp="17" blk="1" stl="0" ast="1" min="50" oreb="4" dreb="12" treb="16" pf="4" tf="0" to="7" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="5" fga="13" fgm3="1" fga3="4" ftm="2" fta="2" tp="13" blk="0" stl="1" ast="2" min="50" oreb="1" dreb="12" treb="13" pf="7" tf="0" to="10" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="3" fga="14" fgm3="0" fga3="1" ftm="11" fta="11" tp="17" blk="0" stl="1" ast="1" min="50" oreb="6" dreb="6" treb="12" pf="4" tf="0" to="6" dq="0"></statsbyprd> 
+    </totals>  
+    <player uni="1" code="1" name="Smith, Heaven" checkname="SMITH,HEAVEN" class="FR" gp="0" gs="0" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="2" code="2" name="Guerrier, Phonia" checkname="GUERRIER,PHONIA" class="FR" gp="0" gs="0" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="4" code="4" name="Pacheco, Mia" checkname="PACHECO,MIA" class="FR" gp="0" gs="0" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="10" code="10" name="Turco, Mary" checkname="TURCO,MARY" class="FR" gp="1" gs="1" oncourt="N" playerId="f69sov820l921tma"> 
+      <stats fgm="6" fga="20" fgm3="0" fga3="0" ftm="1" fta="1" tp="13" blk="1" stl="1" ast="1" min="30" sec="-" oreb="7" dreb="11" treb="18" pf="4" tf="0" to="8" dq="0" fgpct="30" fg3pct="0" ftpct="100"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="6" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="1" min="7" sec="-" oreb="3" dreb="3" treb="6" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="2" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="1" stl="0" ast="0" min="8" sec="+" oreb="1" dreb="5" treb="6" pf="0" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="8" sec="+" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="3" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="2" fga="7" fgm3="0" fga3="0" ftm="1" fta="1" tp="5" blk="0" stl="0" ast="0" min="7" sec="-" oreb="3" dreb="1" treb="4" pf="2" tf="0" to="2" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="11" code="11" name="Wasiewicz, Gabby" checkname="WASIEWICZ,GABBY" class="FR" gp="1" gs="0" oncourt="N" playerId="21n2havth4q90jbl"> 
+      <stats fgm="0" fga="3" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="8" sec="-" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" sec="-" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="12" code="12" name="Lewis, Jade" checkname="LEWIS,JADE" class="SO" gp="1" gs="1" pos="G" oncourt="Y" playerId="a9up3pha0i7k67s0"> 
+      <stats fgm="2" fga="10" fgm3="1" fga3="3" ftm="4" fta="4" tp="9" blk="0" stl="0" ast="3" min="38" sec="-" oreb="0" dreb="6" treb="6" pf="2" tf="0" to="8" dq="0" fgpct="20" fg3pct="33.3" ftpct="100"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="3" min="8" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="3" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="0" min="9" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="3" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="13" code="13" name="Uribe, Talia" checkname="URIBE,TALIA" class="JR" gp="1" gs="1" pos="G" oncourt="N" playerId="dtut13dpcksp18p5"> 
+      <stats fgm="2" fga="11" fgm3="0" fga3="0" ftm="6" fta="8" tp="10" blk="0" stl="1" ast="0" min="22" sec="+" oreb="6" dreb="4" treb="10" pf="5" tf="0" to="4" dq="0" fgpct="18.2" fg3pct="0" ftpct="75"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="0" min="5" sec="-" oreb="4" dreb="0" treb="4" pf="2" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="0" ftm="3" fta="4" tp="3" blk="0" stl="0" ast="0" min="7" sec="+" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="2" fta="2" tp="4" blk="0" stl="0" ast="0" min="6" sec="+" oreb="1" dreb="2" treb="3" pf="2" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="4" sec="-" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="14" code="14" name="Gorski, Jenny" checkname="GORSKI,JENNY" class="JR" gp="1" gs="0" pos="F" oncourt="Y" playerId="eu8jnuhy7t667nan"> 
+      <stats fgm="4" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="8" blk="1" stl="0" ast="0" min="11" sec="-" oreb="0" dreb="1" treb="1" pf="4" tf="0" to="1" dq="0" fgpct="80" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="2" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="1" stl="0" ast="0" min="5" sec="-" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" sec="-" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" sec="+" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="15" code="15" name="Barron, Shea" checkname="BARRON,SHEA" class="SO" gp="1" gs="0" pos="F" oncourt="Y" playerId="gwmad4q4d1h2qyaw"> 
+      <stats fgm="3" fga="6" fgm3="2" fga3="4" ftm="2" fta="2" tp="10" blk="0" stl="0" ast="0" min="29" sec="+" oreb="1" dreb="5" treb="6" pf="2" tf="0" to="1" dq="0" fgpct="50" fg3pct="50" ftpct="100"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="6" sec="-" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="2" fga="2" fgm3="1" fga3="1" ftm="0" fta="0" tp="5" blk="0" stl="0" ast="0" min="9" sec="-" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" sec="+" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="2" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="0" min="10" sec="-" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="20" code="20" name="LeBel, Kelly" checkname="LEBEL,KELLY" class="JR" gp="1" gs="0" pos="G" oncourt="N" playerId="pl7s2yw08110wdi6"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="21" code="21" name="Asfaw, Soliyana" checkname="ASFAW,SOLIYANA" class="SR" gp="0" gs="0" pos="G" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="22" code="22" name="Johnston, Rahmia" checkname="JOHNSTON,RAHMIA" class="SR" gp="1" gs="1" pos="G" oncourt="Y" playerId="t0srz8x5yym30anx"> 
+      <stats fgm="2" fga="5" fgm3="1" fga3="3" ftm="7" fta="8" tp="12" blk="0" stl="2" ast="2" min="36" sec="+" oreb="1" dreb="9" treb="10" pf="2" tf="0" to="2" dq="0" fgpct="40" fg3pct="33.3" ftpct="87.5"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="9" sec="+" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="1" min="7" sec="+" oreb="1" dreb="2" treb="3" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="1" fga="2" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="1" ast="1" min="10" oreb="0" dreb="3" treb="3" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="6" fta="6" tp="6" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="23" code="23" name="Graham, Piper" checkname="GRAHAM,PIPER" class="SO" gp="1" gs="1" pos="G" oncourt="Y" playerId="vd1e6gtjw0a6zplo"> 
+      <stats fgm="1" fga="4" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="3" min="23" sec="-" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" dq="0" fgpct="25" fg3pct="50" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="8" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" sec="+" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="5" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="7" sec="+" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="24" code="24" name="Andrade, Sophia" checkname="ANDRADE,SOPHIA" class="SO" gp="1" gs="0" pos="G" oncourt="N" playerId="w6maxa8162lui28x"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" sec="-" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="44" code="44" name="Mildner, Stephanie" checkname="MILDNER,STEPHANIE" class="FR" gp="0" gs="0" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1" gs="0" oncourt="N"> 
+      <stats oreb="2" dreb="1" treb="3" pf="0" tf="0" to="0" dq="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player> 
+  </team>  
+  <team vh="H" code="569" id="REGIS" name="Regis (MA)"> 
+    <linescore line="14,17,15,18" score="64"> 
+      <lineprd prd="1" score="14"></lineprd>  
+      <lineprd prd="2" score="17"></lineprd>  
+      <lineprd prd="3" score="15"></lineprd>  
+      <lineprd prd="4" score="18"></lineprd> 
+    </linescore>  
+    <totals> 
+      <stats fgm="24" fga="74" fgm3="3" fga3="24" ftm="13" fta="20" tp="64" blk="3" stl="9" ast="13" min="200" oreb="13" dreb="28" treb="41" pf="16" tf="0" to="11" dq="0" fgpct="32.4" fg3pct="12.5" ftpct="65"></stats>  
+      <special vh="H" pts_to="21" pts_ch2="10" pts_paint="38" pts_fastb="6" pts_bench="7" ties="4" leads="5" lead_time="78" large_lead="2"></special>  
+      <statsbyprd prd="1" fgm="4" fga="17" fgm3="1" fga3="8" ftm="5" fta="6" tp="14" blk="0" stl="0" ast="1" min="50" oreb="3" dreb="10" treb="13" pf="2" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="7" fga="21" fgm3="1" fga3="5" ftm="2" fta="2" tp="17" blk="0" stl="4" ast="4" min="50" oreb="2" dreb="7" treb="9" pf="5" tf="0" to="2" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="5" fga="18" fgm3="1" fga3="5" ftm="4" fta="6" tp="15" blk="1" stl="3" ast="4" min="50" oreb="1" dreb="6" treb="7" pf="2" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="8" fga="18" fgm3="0" fga3="6" ftm="2" fta="6" tp="18" blk="2" stl="2" ast="4" min="50" oreb="7" dreb="5" treb="12" pf="7" tf="0" to="6" dq="0"></statsbyprd> 
+    </totals>  
+    <player uni="1" code="1" name="Striggles, Jordyn" checkname="STRIGGLES,JORDYN" class="JR" gp="1" gs="1" pos="G" oncourt="Y" playerId="2oqh8xxxj2xaxxkz"> 
+      <stats fgm="4" fga="12" fgm3="0" fga3="6" ftm="0" fta="0" tp="8" blk="0" stl="2" ast="1" min="32" sec="-" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0" fgpct="33.3" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="2" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="0" min="9" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="3" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="0" min="7" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="9" sec="-" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="2" code="2" name="Marinelli, Erika" checkname="MARINELLI,ERIKA" class="JR" gp="1" gs="1" pos="G" oncourt="N" playerId="v6l2wtf2qjf0i703"> 
+      <stats fgm="2" fga="8" fgm3="1" fga3="5" ftm="1" fta="2" tp="6" blk="0" stl="0" ast="2" min="26" sec="-" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="1" dq="0" fgpct="25" fg3pct="20" ftpct="50"></stats>  
+      <statsbyprd prd="1" fgm="2" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="5" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="2" min="7" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" sec="-" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="3" code="3" name="Pollini, Emma" checkname="POLLINI,EMMA" class="JR" gp="1" gs="0" pos="G" oncourt="N" playerId="3hwjcc55uu67wqmv"> 
+      <stats fgm="1" fga="4" fgm3="1" fga3="2" ftm="3" fta="4" tp="6" blk="0" stl="1" ast="1" min="17" sec="+" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="1" dq="0" fgpct="25" fg3pct="50" ftpct="75"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="1" fga3="1" ftm="2" fta="2" tp="5" blk="0" stl="1" ast="0" min="7" sec="-" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="1" fgm3="0" fga3="1" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="1" min="6" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" sec="-" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="4" code="4" name="Hart, Isabella" checkname="HART,ISABELLA" class="FR" gp="0" gs="0" pos="G" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="10" code="10" name="Zancan, Madi" checkname="ZANCAN,MADI" class="JR" gp="1" gs="1" pos="F" oncourt="Y" playerId="sqm1hnz944pip5ya"> 
+      <stats fgm="10" fga="20" fgm3="0" fga3="1" ftm="4" fta="5" tp="24" blk="3" stl="1" ast="3" min="34" sec="-" oreb="4" dreb="12" treb="16" pf="1" tf="0" to="2" dq="0" fgpct="50" fg3pct="0" ftpct="80"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="2" fgm3="0" fga3="0" ftm="4" fta="4" tp="6" blk="0" stl="0" ast="1" min="8" sec="+" oreb="1" dreb="3" treb="4" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="3" fga="9" fgm3="0" fga3="1" ftm="0" fta="0" tp="6" blk="0" stl="1" ast="1" min="10" oreb="2" dreb="5" treb="7" pf="0" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="1" stl="0" ast="1" min="7" sec="+" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="6" fga="7" fgm3="0" fga3="0" ftm="0" fta="1" tp="12" blk="2" stl="0" ast="0" min="8" sec="+" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="11" code="11" name="Fatah, Fatma" checkname="FATAH,FATMA" class="SO" gp="0" gs="0" pos="G" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="14" code="14" name="Doherty, Courtney" checkname="DOHERTY,COURTNEY" class="SR" gp="1" gs="1" pos="G" oncourt="Y" playerId="zyjmapu10x2havqk"> 
+      <stats fgm="6" fga="18" fgm3="1" fga3="4" ftm="1" fta="2" tp="14" blk="0" stl="0" ast="3" min="29" oreb="2" dreb="2" treb="4" pf="4" tf="0" to="2" dq="0" fgpct="33.3" fg3pct="25" ftpct="50"></stats>  
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="9" sec="-" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="2" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="1" min="7" sec="+" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="2" fga="4" fgm3="1" fga3="1" ftm="0" fta="0" tp="5" blk="0" stl="0" ast="0" min="6" sec="-" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="4" fgm3="0" fga3="2" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="2" min="7" sec="+" oreb="2" dreb="0" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="20" code="20" name="Perry, Jillian" checkname="PERRY,JILLIAN" class="SO" gp="1" gs="1" pos="G" oncourt="Y" playerId="9e7oh00qwmsvdrwg"> 
+      <stats fgm="1" fga="9" fgm3="0" fga3="5" ftm="3" fta="5" tp="5" blk="0" stl="4" ast="2" min="33" sec="-" oreb="3" dreb="6" treb="9" pf="3" tf="0" to="1" dq="0" fgpct="11.1" fg3pct="0" ftpct="60"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="5" fgm3="0" fga3="3" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" sec="-" oreb="1" dreb="3" treb="4" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="1" min="6" sec="-" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="1" ftm="2" fta="2" tp="2" blk="0" stl="2" ast="0" min="10" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="1" fga="2" fgm3="0" fga3="1" ftm="1" fta="3" tp="3" blk="0" stl="1" ast="1" min="10" oreb="1" dreb="1" treb="2" pf="2" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="24" code="24" name="Reynolds, Maya" checkname="REYNOLDS,MAYA" class="FR" gp="0" gs="0" pos="F" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="25" code="25" name="Perdicho, Jesmari" checkname="PERDICHO,JESMARI" class="FR" gp="0" gs="0" pos="G" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="31" code="31" name="Ayala, Serenity" checkname="AYALA,SERENITY" class="JR" gp="1" gs="0" pos="G" oncourt="Y" playerId="gfeos5pwu4xxtbp1"> 
+      <stats fgm="0" fga="3" fgm3="0" fga3="1" ftm="1" fta="2" tp="1" blk="0" stl="1" ast="1" min="23" sec="+" oreb="0" dreb="3" treb="3" pf="3" tf="0" to="2" dq="0" fgpct="0" fg3pct="0" ftpct="50"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="4" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="7" sec="-" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="5" sec="+" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="2" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="32" code="32" name="Pollini, Sophia" checkname="POLLINI,SOPHIA" class="FR" gp="1" gs="0" pos="G" oncourt="N" playerId="wvx3smo9r3g6gm8w"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" sec="-" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" sec="+" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" sec="-" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player>  
+    <player uni="33" code="33" name="George, Bella" checkname="GEORGE,BELLA" class="SO" gp="0" gs="0" pos="G" oncourt="N"> 
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0" fgpct="0" fg3pct="0" ftpct="0"></stats> 
+    </player>  
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" class="" gp="1" gs="0" oncourt="N"> 
+      <stats oreb="2" dreb="2" treb="4" pf="0" tf="0" to="1" dq="0"></stats>  
+      <statsbyprd prd="1" fgm="0" fga="0" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="2" fgm="0" fga="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="3" fgm="0" fga="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>  
+      <statsbyprd prd="4" fgm="0" fga="0" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd> 
+    </player> 
+  </team>  
+  <plays format="tokens"> 
+    <period number="1" time="10:00"> 
+      <special vh="V" pts_to="0" pts_ch2="2" pts_paint="8" pts_fastb="2" pts_bench="7" ties="3" leads="5" lead_time="0" large_lead="0"></special>  
+      <special vh="H" pts_to="2" pts_ch2="0" pts_paint="6" pts_fastb="0" pts_bench="1" ties="4" leads="5" lead_time="0" large_lead="0"></special>  
+      <summary vh="V" fgm="7" fga="23" fgm3="3" fga3="6" ftm="1" fta="2" blk="1" stl="2" ast="5" oreb="7" dreb="11" treb="18" pf="5" tf="0" to="3"></summary>  
+      <summary vh="H" fgm="4" fga="17" fgm3="1" fga3="8" ftm="5" fta="6" blk="0" stl="0" ast="1" oreb="2" dreb="9" treb="13" pf="2" tf="0" to="2"></summary>  
+      <play vh="V" time="09:48" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="09:39" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="09:35" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="09:20" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="09:17" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="09:15" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="09:11" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="09:08" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="09:03" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="08:51" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="08:46" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="08:46" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="TIPIN" vscore="2" hscore="0" side="right"></play>  
+      <play vh="H" time="08:28" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="2" hscore="2" side="left"></play>  
+      <play vh="H" time="08:14" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="FOUL" side="left"></play>  
+      <play vh="V" time="08:14" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="3" hscore="2" side="right"></play>  
+      <play vh="V" time="08:14" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="08:14" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="07:59" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="07:56" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="07:52" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="07:49" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="07:39" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="07:35" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="07:24" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL" side="right"></play>  
+      <play vh="V" time="07:24" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="07:24" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="07:24" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="07:24" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="07:24" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="07:12" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="GOOD" type="LAYUP" vscore="3" hscore="4" side="left"></play>  
+      <play vh="V" time="06:49" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="GOOD" type="3PTR" vscore="6" hscore="4" side="right"></play>  
+      <play vh="V" time="06:49" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST" side="right"></play>  
+      <play vh="H" time="06:38" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="06:30" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="H" time="06:30" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="TIPIN" side="left"></play>  
+      <play vh="H" time="06:30" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="H" time="06:26" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="06:26" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="STEAL" side="right"></play>  
+      <play vh="V" time="06:07" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="06:00" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="05:57" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="05:51" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="3PTR" vscore="9" hscore="4" side="right"></play>  
+      <play vh="V" time="05:51" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST" side="right"></play>  
+      <play vh="H" time="05:36" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="05:31" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="05:23" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" vscore="11" hscore="4" side="right"></play>  
+      <play vh="V" time="05:23" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="ASSIST" side="right"></play>  
+      <play vh="H" time="05:03" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="GOOD" type="3PTR" vscore="11" hscore="7" side="left"></play>  
+      <play vh="H" time="05:03" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="ASSIST" side="left"></play>  
+      <play vh="V" time="04:44" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="H" time="04:41" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="04:29" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="04:24" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="04:20" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" fastb="Y" vscore="13" hscore="7" side="right"></play>  
+      <play vh="V" time="04:20" uni="12" team="ELMS" checkname="LEWIS,JADE" action="ASSIST" side="right"></play>  
+      <play vh="H" time="04:11" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="04:11" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="BLOCK" side="right"></play>  
+      <play vh="H" time="04:11" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="04:11" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="FOUL" side="right"></play>  
+      <play vh="H" time="04:11" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="04:11" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="04:11" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="04:11" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="04:11" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="04:11" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="04:11" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="04:11" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="03:57" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="03:54" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="03:42" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" side="right"></play>  
+      <play vh="V" time="03:39" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="03:36" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="V" time="03:31" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="03:31" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="TIPIN" side="right"></play>  
+      <play vh="H" time="03:31" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="03:17" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="03:14" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="03:07" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="3PTR" vscore="16" hscore="7" side="right"></play>  
+      <play vh="V" time="03:07" uni="10" team="ELMS" checkname="TURCO,MARY" action="ASSIST" side="right"></play>  
+      <play vh="H" time="02:55" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="02:52" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="02:49" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="H" time="02:45" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="02:38" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="02:38" uni="10" team="ELMS" checkname="TURCO,MARY" action="STEAL" side="right"></play>  
+      <play vh="H" time="02:38" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="FOUL" side="left"></play>  
+      <play vh="H" time="02:38" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="02:38" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="02:38" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="02:38" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="02:38" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="02:38" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="02:35" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="02:32" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="02:32" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="TIPIN" side="right"></play>  
+      <play vh="V" time="02:32" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="02:20" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="02:17" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="02:05" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL" side="right"></play>  
+      <play vh="V" time="02:05" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="02:05" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="02:05" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="GOOD" type="FT" vscore="16" hscore="8" side="left"></play>  
+      <play vh="H" time="02:05" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="MISS" type="FT" side="left"></play>  
+      <play vh="V" time="02:05" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="01:52" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="01:49" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="01:39" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="LAYUP" vscore="16" hscore="10" side="left"></play>  
+      <play vh="V" time="01:21" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="LAYUP" vscore="18" hscore="10" side="right"></play>  
+      <play vh="H" time="01:08" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="01:08" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="01:08" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="01:08" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="01:08" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="01:08" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="00:55" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL" side="right"></play>  
+      <play vh="V" time="00:55" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="00:55" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="00:55" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="FT" vscore="18" hscore="11" side="left"></play>  
+      <play vh="H" time="00:55" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="FT" vscore="18" hscore="12" side="left"></play>  
+      <play vh="V" time="00:45" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="00:40" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="00:39" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="H" time="00:35" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="00:22" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL" side="right"></play>  
+      <play vh="V" time="00:22" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="00:22" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="00:22" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="FT" vscore="18" hscore="13" side="left"></play>  
+      <play vh="H" time="00:22" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="FT" vscore="18" hscore="14" side="left"></play>  
+      <play vh="V" time="00:10" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="00:06" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="left"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="2" time="10:00"> 
+      <special vh="V" pts_to="0" pts_ch2="4" pts_paint="6" pts_fastb="0" pts_bench="5" ties="3" leads="5" lead_time="0" large_lead="0"></special>  
+      <special vh="H" pts_to="4" pts_ch2="4" pts_paint="10" pts_fastb="2" pts_bench="5" ties="4" leads="5" lead_time="0" large_lead="0"></special>  
+      <summary vh="V" fgm="5" fga="14" fgm3="1" fga3="3" ftm="6" fta="8" blk="1" stl="0" ast="1" oreb="3" dreb="12" treb="16" pf="4" tf="0" to="7"></summary>  
+      <summary vh="H" fgm="7" fga="21" fgm3="1" fga3="5" ftm="2" fta="2" blk="0" stl="4" ast="4" oreb="2" dreb="7" treb="9" pf="5" tf="0" to="2"></summary>  
+      <play vh="H" time="10:00" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="10:00" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="10:00" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="10:00" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="10:00" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="10:00" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="09:51" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="09:47" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="H" time="09:43" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="JUMPER" vscore="18" hscore="16" side="left"></play>  
+      <play vh="H" time="09:43" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="ASSIST" side="left"></play>  
+      <play vh="V" time="09:28" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="LAYUP" vscore="20" hscore="16" side="right"></play>  
+      <play vh="H" time="09:17" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="GOOD" type="3PTR" vscore="20" hscore="19" side="left"></play>  
+      <play vh="H" time="09:17" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="ASSIST" side="left"></play>  
+      <play vh="V" time="09:04" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="08:53" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="LAYUP" vscore="20" hscore="21" side="left"></play>  
+      <play vh="V" time="08:43" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="08:43" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="STEAL" side="left"></play>  
+      <play vh="H" time="08:38" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="08:32" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="08:28" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="3PTR" vscore="23" hscore="21" side="right"></play>  
+      <play vh="V" time="08:28" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="ASSIST" side="right"></play>  
+      <play vh="H" time="08:21" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="08:18" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="08:16" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="FOUL" side="left"></play>  
+      <play vh="V" time="08:16" uni="24" team="ELMS" checkname="ANDRADE,SOPHIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="08:16" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="08:16" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="24" hscore="21" side="right"></play>  
+      <play vh="V" time="08:16" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="25" hscore="21" side="right"></play>  
+      <play vh="H" time="07:53" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="07:28" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="07:28" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="STEAL" side="left"></play>  
+      <play vh="V" time="07:23" uni="12" team="ELMS" checkname="LEWIS,JADE" action="FOUL" side="right"></play>  
+      <play vh="H" time="07:15" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="07:12" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="07:08" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="07:05" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="06:59" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="06:55" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="06:41" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="06:38" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="06:30" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="06:26" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="H" time="06:26" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="TIPIN" vscore="25" hscore="23" side="left"></play>  
+      <play vh="V" time="06:00" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" side="right"></play>  
+      <play vh="H" time="05:57" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="05:52" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL" side="right"></play>  
+      <play vh="H" time="05:52" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="05:52" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="05:52" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="05:52" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="05:52" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="GOOD" type="FT" fastb="Y" vscore="25" hscore="24" side="left"></play>  
+      <play vh="H" time="05:52" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="GOOD" type="FT" fastb="Y" vscore="25" hscore="25" side="left"></play>  
+      <play vh="H" time="05:52" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="05:52" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="05:39" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="05:34" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="05:29" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="05:25" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="05:09" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" side="right"></play>  
+      <play vh="V" time="05:05" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="05:03" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="04:47" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="04:45" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="04:38" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="04:38" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="STEAL" side="left"></play>  
+      <play vh="V" time="04:38" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="FOUL" side="right"></play>  
+      <play vh="V" time="04:38" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="04:38" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="04:27" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="FOUL" side="right"></play>  
+      <play vh="V" time="04:27" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="04:27" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="04:22" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="25" hscore="27" side="left"></play>  
+      <play vh="H" time="04:22" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="ASSIST" side="left"></play>  
+      <play vh="V" time="04:07" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="JUMPER" vscore="27" hscore="27" side="right"></play>  
+      <play vh="H" time="03:57" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="03:53" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="03:37" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="03:37" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="03:37" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="03:37" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="03:37" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="03:22" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="03:22" uni="10" team="ELMS" checkname="TURCO,MARY" action="BLOCK" side="right"></play>  
+      <play vh="V" time="03:17" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="03:14" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="V" time="03:06" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="03:06" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="TIPIN" vscore="29" hscore="27" side="right"></play>  
+      <play vh="H" time="03:00" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="02:56" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="02:37" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="FOUL" side="left"></play>  
+      <play vh="H" time="02:37" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="02:37" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="02:37" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="30" hscore="27" side="right"></play>  
+      <play vh="V" time="02:37" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="02:37" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="02:14" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="V" time="02:10" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="01:59" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="01:57" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="01:56" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="FOUL" side="left"></play>  
+      <play vh="V" time="01:54" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="01:51" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="01:51" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="FOUL" side="left"></play>  
+      <play vh="V" time="01:51" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="31" hscore="27" side="right"></play>  
+      <play vh="V" time="01:51" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="32" hscore="27" side="right"></play>  
+      <play vh="V" time="01:51" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="01:51" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="01:37" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="32" hscore="29" side="left"></play>  
+      <play vh="H" time="01:37" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="ASSIST" side="left"></play>  
+      <play vh="V" time="01:20" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="01:17" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="01:11" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="01:11" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="01:11" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="H" time="01:11" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="01:11" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="01:11" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="V" time="01:11" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="01:00" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="01:00" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="STEAL" side="left"></play>  
+      <play vh="H" time="00:55" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="00:53" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="00:53" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="FOUL" side="left"></play>  
+      <play vh="V" time="00:53" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="33" hscore="29" side="right"></play>  
+      <play vh="V" time="00:53" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="00:53" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="00:42" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="GOOD" type="LAYUP" vscore="33" hscore="31" side="left"></play>  
+      <play vh="V" time="00:19" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="LAYUP" vscore="35" hscore="31" side="right"></play>  
+      <play vh="H" time="00:08" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="00:04" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="DEF" side="right"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="3" time="10:00"> 
+      <special vh="V" pts_to="3" pts_ch2="2" pts_paint="8" pts_fastb="0" pts_bench="2" ties="3" leads="5" lead_time="0" large_lead="0"></special>  
+      <special vh="H" pts_to="7" pts_ch2="0" pts_paint="6" pts_fastb="2" pts_bench="1" ties="4" leads="5" lead_time="0" large_lead="0"></special>  
+      <summary vh="V" fgm="5" fga="13" fgm3="1" fga3="4" ftm="2" fta="2" blk="0" stl="1" ast="2" oreb="1" dreb="12" treb="13" pf="7" tf="0" to="10"></summary>  
+      <summary vh="H" fgm="5" fga="18" fgm3="1" fga3="5" ftm="4" fta="6" blk="1" stl="3" ast="4" oreb="1" dreb="6" treb="7" pf="2" tf="0" to="1"></summary>  
+      <play vh="H" time="10:00" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="10:00" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="10:00" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="10:00" uni="20" team="ELMS" checkname="LEBEL,KELLY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="10:00" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="10:00" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="09:50" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="09:48" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="09:48" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="09:48" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="STEAL" side="right"></play>  
+      <play vh="H" time="09:30" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="09:26" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="09:21" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="LAYUP" vscore="37" hscore="31" side="left"></play>  
+      <play vh="V" time="09:10" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL" side="left"></play>  
+      <play vh="H" time="08:59" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="GOOD" type="JUMPER" vscore="37" hscore="33" side="right"></play>  
+      <play vh="V" time="08:41" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="08:38" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="08:31" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="GOOD" type="JUMPER" vscore="37" hscore="35" side="right"></play>  
+      <play vh="H" time="08:31" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="ASSIST" side="right"></play>  
+      <play vh="V" time="08:13" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="08:13" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="08:13" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="08:04" uni="15" team="ELMS" checkname="BARRON,SHEA" action="FOUL" side="left"></play>  
+      <play vh="V" time="07:50" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL" side="left"></play>  
+      <play vh="H" time="07:50" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="GOOD" type="FT" vscore="37" hscore="36" side="right"></play>  
+      <play vh="H" time="07:50" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="GOOD" type="FT" vscore="37" hscore="37" side="right"></play>  
+      <play vh="V" time="07:42" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="07:42" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="07:42" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="07:36" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="07:33" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="07:23" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" vscore="39" hscore="37" side="left"></play>  
+      <play vh="H" time="07:15" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="07:12" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="07:03" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="FOUL" side="right"></play>  
+      <play vh="H" time="07:03" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="07:03" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="07:03" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="40" hscore="37" side="left"></play>  
+      <play vh="V" time="07:03" uni="13" team="ELMS" checkname="URIBE,TALIA" action="GOOD" type="FT" vscore="41" hscore="37" side="left"></play>  
+      <play vh="H" time="06:47" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="06:44" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="06:31" uni="15" team="ELMS" checkname="BARRON,SHEA" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="06:27" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="06:27" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL" side="left"></play>  
+      <play vh="H" time="06:18" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="06:16" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="06:10" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="06:07" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="06:04" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="GOOD" type="LAYUP" fastb="Y" vscore="41" hscore="39" side="right"></play>  
+      <play vh="H" time="06:04" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="ASSIST" side="right"></play>  
+      <play vh="V" time="05:50" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="05:50" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEADB" side="left"></play>  
+      <play vh="H" time="05:50" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="05:50" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="05:50" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="05:50" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="05:50" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="LAYUP" vscore="43" hscore="39" side="left"></play>  
+      <play vh="V" time="05:50" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="ASSIST" side="left"></play>  
+      <play vh="H" time="05:50" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="BLOCK" side="right"></play>  
+      <play vh="H" time="05:47" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="05:44" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="05:44" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="FOUL" side="right"></play>  
+      <play vh="V" time="05:37" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="05:37" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="05:08" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="05:08" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="STEAL" side="right"></play>  
+      <play vh="H" time="04:58" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="H" time="04:55" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="04:52" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="04:48" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="04:37" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="04:37" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="STEAL" side="right"></play>  
+      <play vh="H" time="04:31" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="04:28" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="04:25" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="04:08" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="04:03" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="03:43" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="03:39" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="V" time="03:36" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="03:32" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="03:28" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="03:15" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="03:12" uni="12" team="ELMS" checkname="LEWIS,JADE" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="03:08" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="03:04" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="03:01" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="V" time="02:56" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="02:56" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="30SEC" side="left"></play>  
+      <play vh="H" time="02:56" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="02:56" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="02:56" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="02:56" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="02:56" uni="11" team="ELMS" checkname="WASIEWICZ,GABBY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="02:56" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="02:56" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="02:56" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="02:50" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="JUMPER" vscore="45" hscore="39" side="left"></play>  
+      <play vh="H" time="02:16" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="02:16" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="STEAL" side="left"></play>  
+      <play vh="V" time="01:54" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="3PTR" vscore="48" hscore="39" side="left"></play>  
+      <play vh="V" time="01:54" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="ASSIST" side="left"></play>  
+      <play vh="H" time="01:24" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="JUMPER" vscore="48" hscore="41" side="right"></play>  
+      <play vh="H" time="01:24" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="ASSIST" side="right"></play>  
+      <play vh="V" time="01:07" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL" side="left"></play>  
+      <play vh="V" time="01:07" uni="13" team="ELMS" checkname="URIBE,TALIA" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="00:59" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL" side="left"></play>  
+      <play vh="V" time="00:59" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="00:59" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="00:59" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="00:59" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="DEADB" side="right"></play>  
+      <play vh="H" time="00:59" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="GOOD" type="FT" vscore="48" hscore="42" side="right"></play>  
+      <play vh="H" time="00:59" uni="TM" team="REGIS" checkname="TEAM" action="TIMEOUT" type="30SEC" side="right"></play>  
+      <play vh="V" time="00:54" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="left"></play>  
+      <play vh="V" time="00:51" uni="12" team="ELMS" checkname="LEWIS,JADE" action="FOUL" side="left"></play>  
+      <play vh="H" time="00:51" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="00:51" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="DEADB" side="right"></play>  
+      <play vh="H" time="00:51" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="GOOD" type="FT" vscore="48" hscore="43" side="right"></play>  
+      <play vh="V" time="00:44" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="00:20" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="3PTR" vscore="48" hscore="46" side="right"></play>  
+      <play vh="H" time="00:20" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="ASSIST" side="right"></play>  
+      <play vh="V" time="00:02" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="H" time="00:02" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="REBOUND" type="DEF" side="right"></play>  
+      <clock time="00:00"></clock> 
+    </period>  
+    <period number="4" time="10:00"> 
+      <special vh="V" pts_to="7" pts_ch2="5" pts_paint="6" pts_fastb="0" pts_bench="4" ties="3" leads="5" lead_time="0" large_lead="0"></special>  
+      <special vh="H" pts_to="8" pts_ch2="6" pts_paint="16" pts_fastb="2" pts_bench="0" ties="4" leads="5" lead_time="0" large_lead="0"></special>  
+      <summary vh="V" fgm="3" fga="14" fgm3="0" fga3="1" ftm="11" fta="11" blk="0" stl="1" ast="1" oreb="5" dreb="5" treb="12" pf="4" tf="0" to="6"></summary>  
+      <summary vh="H" fgm="8" fga="18" fgm3="0" fga3="6" ftm="2" fta="6" blk="2" stl="2" ast="4" oreb="6" dreb="4" treb="12" pf="7" tf="0" to="6"></summary>  
+      <play vh="H" time="10:00" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="10:00" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="10:00" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="10:00" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="10:00" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="10:00" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="10:00" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="10:00" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="09:39" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="09:39" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="BLOCK" side="right"></play>  
+      <play vh="V" time="09:38" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="09:36" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="09:18" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="48" hscore="48" side="right"></play>  
+      <play vh="H" time="09:18" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="ASSIST" side="right"></play>  
+      <play vh="V" time="08:46" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="LAYUP" vscore="50" hscore="48" side="left"></play>  
+      <play vh="H" time="08:32" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="H" time="08:29" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="V" time="08:29" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="08:29" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="08:23" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="08:19" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="08:14" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="08:10" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="07:52" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="07:52" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="BLOCK" side="right"></play>  
+      <play vh="V" time="07:52" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="07:52" uni="10" team="ELMS" checkname="TURCO,MARY" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="07:44" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="TURNOVER" side="right"></play>  
+      <play vh="H" time="07:26" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="FOUL" side="right"></play>  
+      <play vh="H" time="07:26" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="07:26" uni="32" team="REGIS" checkname="POLLINI,SOPHIA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="07:26" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="07:26" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="07:26" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="51" hscore="48" side="left"></play>  
+      <play vh="V" time="07:26" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="52" hscore="48" side="left"></play>  
+      <play vh="H" time="07:09" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="07:09" uni="13" team="ELMS" checkname="URIBE,TALIA" action="STEAL" side="left"></play>  
+      <play vh="V" time="07:04" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="07:02" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="07:02" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="TIPIN" vscore="54" hscore="48" side="left"></play>  
+      <play vh="H" time="07:02" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="FOUL" side="right"></play>  
+      <play vh="V" time="07:02" uni="10" team="ELMS" checkname="TURCO,MARY" action="GOOD" type="FT" vscore="55" hscore="48" side="left"></play>  
+      <play vh="H" time="06:56" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="06:53" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="06:48" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="GOOD" type="JUMPER" vscore="55" hscore="50" side="right"></play>  
+      <play vh="V" time="06:48" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL" side="left"></play>  
+      <play vh="H" time="06:48" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="FT" side="right"></play>  
+      <play vh="V" time="06:48" uni="13" team="ELMS" checkname="URIBE,TALIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="06:41" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="V" time="06:35" uni="10" team="ELMS" checkname="TURCO,MARY" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="06:35" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="TIPIN" side="left"></play>  
+      <play vh="H" time="06:33" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="06:07" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="06:04" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="05:57" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="MISS" type="LAYUP" side="right"></play>  
+      <play vh="V" time="05:52" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="05:40" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="05:38" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="V" time="05:38" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="05:38" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="05:38" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="05:38" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="05:35" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="V" time="05:32" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="05:17" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="FOUL" side="right"></play>  
+      <play vh="H" time="05:17" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="05:17" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="05:17" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="56" hscore="50" side="left"></play>  
+      <play vh="V" time="05:17" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="57" hscore="50" side="left"></play>  
+      <play vh="H" time="05:09" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="04:53" uni="13" team="ELMS" checkname="URIBE,TALIA" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="04:50" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="04:39" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="04:39" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="04:39" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="04:39" uni="12" team="ELMS" checkname="LEWIS,JADE" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="04:39" uni="TM" team="REGIS" checkname="TEAM" action="TIMEOUT" type="TEAM" side="right"></play>  
+      <play vh="V" time="04:30" uni="13" team="ELMS" checkname="URIBE,TALIA" action="FOUL" side="left"></play>  
+      <play vh="V" time="04:30" uni="13" team="ELMS" checkname="URIBE,TALIA" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="04:30" uni="15" team="ELMS" checkname="BARRON,SHEA" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="04:30" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="FT" vscore="57" hscore="51" side="right"></play>  
+      <play vh="H" time="04:30" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="04:30" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="04:01" uni="TM" team="REGIS" checkname="TEAM" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="03:44" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="GOOD" type="LAYUP" vscore="59" hscore="51" side="left"></play>  
+      <play vh="V" time="03:44" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="ASSIST" side="left"></play>  
+      <play vh="V" time="03:34" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="FOUL" side="left"></play>  
+      <play vh="H" time="03:34" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="GOOD" type="FT" vscore="59" hscore="52" side="right"></play>  
+      <play vh="H" time="03:34" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="MISS" type="FT" side="right"></play>  
+      <play vh="H" time="03:34" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="03:31" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="V" time="03:29" uni="TM" team="ELMS" checkname="TEAM" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="H" time="03:29" uni="2" team="REGIS" checkname="MARINELLI,ERIKA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="03:29" uni="3" team="REGIS" checkname="POLLINI,EMMA" action="SUB" type="OUT" side="right"></play>  
+      <play vh="H" time="03:29" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="SUB" type="IN" side="right"></play>  
+      <play vh="H" time="03:29" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="SUB" type="IN" side="right"></play>  
+      <play vh="V" time="03:29" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="03:29" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="03:17" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="FOUL" side="right"></play>  
+      <play vh="V" time="03:12" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="03:12" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="STEAL" side="right"></play>  
+      <play vh="H" time="03:00" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="59" hscore="54" side="right"></play>  
+      <play vh="H" time="02:43" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="FOUL" side="right"></play>  
+      <play vh="V" time="02:43" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="60" hscore="54" side="left"></play>  
+      <play vh="V" time="02:43" uni="22" team="ELMS" checkname="JOHNSTON,RAHMIA" action="GOOD" type="FT" vscore="61" hscore="54" side="left"></play>  
+      <play vh="H" time="02:32" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="MISS" type="JUMPER" side="right"></play>  
+      <play vh="H" time="02:26" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="02:26" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="GOOD" type="TIPIN" vscore="61" hscore="56" side="right"></play>  
+      <play vh="V" time="02:03" uni="10" team="ELMS" checkname="TURCO,MARY" action="MISS" type="LAYUP" side="left"></play>  
+      <play vh="H" time="02:00" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="01:55" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" fastb="Y" vscore="61" hscore="58" side="right"></play>  
+      <play vh="H" time="01:55" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="ASSIST" side="right"></play>  
+      <play vh="V" time="01:51" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="TEAM" side="left"></play>  
+      <play vh="V" time="01:31" uni="12" team="ELMS" checkname="LEWIS,JADE" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="01:22" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="01:18" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="REBOUND" type="OFF" side="right"></play>  
+      <play vh="H" time="01:09" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="61" hscore="60" side="right"></play>  
+      <play vh="V" time="01:09" uni="10" team="ELMS" checkname="TURCO,MARY" action="FOUL" side="left"></play>  
+      <play vh="V" time="01:09" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="01:09" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="01:09" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="MISS" type="FT" side="right"></play>  
+      <play vh="V" time="01:09" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="DEF" side="left"></play>  
+      <play vh="V" time="01:09" uni="15" team="ELMS" checkname="BARRON,SHEA" action="TURNOVER" side="left"></play>  
+      <play vh="H" time="01:09" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="STEAL" side="right"></play>  
+      <play vh="H" time="01:09" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="61" hscore="62" side="right"></play>  
+      <play vh="H" time="01:09" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="ASSIST" side="right"></play>  
+      <play vh="H" time="01:05" uni="1" team="REGIS" checkname="STRIGGLES,JORDYN" action="FOUL" side="right"></play>  
+      <play vh="V" time="01:00" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="62" hscore="62" side="left"></play>  
+      <play vh="V" time="01:00" uni="12" team="ELMS" checkname="LEWIS,JADE" action="GOOD" type="FT" vscore="63" hscore="62" side="left"></play>  
+      <play vh="H" time="01:00" uni="TM" team="REGIS" checkname="TEAM" action="TIMEOUT" type="30SEC" side="right"></play>  
+      <play vh="H" time="00:49" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="TURNOVER" side="right"></play>  
+      <play vh="V" time="00:49" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="30SEC" side="left"></play>  
+      <play vh="V" time="00:36" uni="12" team="ELMS" checkname="LEWIS,JADE" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="00:33" uni="23" team="ELMS" checkname="GRAHAM,PIPER" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="V" time="00:21" uni="15" team="ELMS" checkname="BARRON,SHEA" action="MISS" type="3PTR" side="left"></play>  
+      <play vh="H" time="00:19" uni="20" team="REGIS" checkname="PERRY,JILLIAN" action="REBOUND" type="DEF" side="right"></play>  
+      <play vh="H" time="00:14" uni="TM" team="REGIS" checkname="TEAM" action="TIMEOUT" type="TEAM" side="right"></play>  
+      <play vh="H" time="00:08" uni="10" team="REGIS" checkname="ZANCAN,MADI" action="GOOD" type="LAYUP" vscore="63" hscore="64" side="right"></play>  
+      <play vh="H" time="00:08" uni="14" team="REGIS" checkname="DOHERTY,COURTNEY" action="ASSIST" side="right"></play>  
+      <play vh="V" time="00:08" uni="TM" team="ELMS" checkname="TEAM" action="TIMEOUT" type="TEAM" side="left"></play>  
+      <play vh="V" time="00:08" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="00:08" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="IN" side="left"></play>  
+      <play vh="V" time="00:02" uni="15" team="ELMS" checkname="BARRON,SHEA" action="MISS" type="JUMPER" side="left"></play>  
+      <play vh="V" time="00:02" uni="15" team="ELMS" checkname="BARRON,SHEA" action="REBOUND" type="OFF" side="left"></play>  
+      <play vh="H" time="00:01" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="FOUL" side="right"></play>  
+      <play vh="V" time="00:01" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="FT" vscore="64" hscore="64" side="left"></play>  
+      <play vh="V" time="00:01" uni="15" team="ELMS" checkname="BARRON,SHEA" action="GOOD" type="FT" vscore="65" hscore="64" side="left"></play>  
+      <play vh="H" time="00:01" uni="TM" team="REGIS" checkname="TEAM" action="TIMEOUT" type="30SEC" side="right"></play>  
+      <play vh="V" time="00:01" uni="10" team="ELMS" checkname="TURCO,MARY" action="SUB" type="OUT" side="left"></play>  
+      <play vh="V" time="00:01" uni="14" team="ELMS" checkname="GORSKI,JENNY" action="SUB" type="IN" side="left"></play>  
+      <play vh="H" time="00:00" uni="31" team="REGIS" checkname="AYALA,SERENITY" action="MISS" type="3PTR" side="right"></play>  
+      <play vh="H" time="00:00" uni="TM" team="REGIS" checkname="TEAM" action="REBOUND" type="DEADB" side="right"></play> 
+    </period> 
+  </plays> 
+</bbgame>
+
+
+
