@@ -1,0 +1,35 @@
+Team,No.,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,OREB%,TOV%,EFG%,FTR,Game
+Elms,02,Phonia Guerrier,1,0.0,0.0,,0.0,0,,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,,,,Westfield
+Elms,04,Mia Pacheco,2,0.0,0.0,,0.0,0,,0,2.0,,1,1,2,0,0,0,0,1,0,4.35,0.0,,inf,Westfield
+Elms,10,Mary Turco,11,1.0,2.0,,0.0,0,,0,0.0,,0,3,3,0,0,0,6,5,2,0.0,75.0,50.0,0.0,Westfield
+Elms,12,Jade Lewis,35,3.0,7.0,,0.0,2,,4,6.0,,2,3,5,3,1,0,10,3,10,8.33,50.92,42.86,85.71,Westfield
+Elms,13,Talia Uribe,26,1.0,7.0,,0.0,2,,5,7.0,,4,1,5,0,0,0,10,3,7,15.38,49.8,14.29,100.0,Westfield
+Elms,14,Jenny Gorski,22,1.0,3.0,,0.0,0,,2,2.0,,4,10,14,1,0,1,9,3,4,15.38,69.88,33.33,66.67,Westfield
+Elms,15,Shea Barron,17,1.0,3.0,,1.0,1,,0,0.0,,1,0,1,2,0,0,1,4,3,4.35,25.0,50.0,0.0,Westfield
+Elms,20,Kelly LeBel,16,1.0,2.0,,1.0,2,,1,2.0,,0,1,1,0,2,0,2,1,4,0.0,40.98,75.0,100.0,Westfield
+Elms,21,Soliyana Asfaw,0,0.0,1.0,,0.0,1,,0,0.0,,1,0,1,0,0,0,0,0,0,4.35,0.0,0.0,0.0,Westfield
+Elms,22,Rahmia Johnston,36,5.0,16.0,,3.0,6,,2,3.0,,2,10,12,3,3,1,11,1,15,8.33,38.84,40.62,18.75,Westfield
+Elms,24,Sophia Andrade,20,1.0,4.0,,0.0,2,,0,0.0,,2,4,6,2,0,0,2,3,2,8.33,33.33,25.0,0.0,Westfield
+Elms,32,Ta'Niyah Scott,4,1.0,1.0,,0.0,0,,0,2.0,,1,0,1,0,0,0,0,1,2,4.35,0.0,100.0,200.0,Westfield
+Elms,34,Autumn Koch,8,0.0,3.0,,0.0,2,,0,0.0,,0,1,1,0,0,0,1,2,0,0.0,25.0,0.0,0.0,Westfield
+Elms,35,Stephanie Mildner,1,0.0,0.0,,0.0,0,,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,,,,Westfield
+Elms,50,Danajah Stokes,1,0.0,1.0,,0.0,0,,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,Westfield
+Elms,TM,Team,,0.0,0.0,,0.0,,,,0.0,,1,2,3,,,,1,0,0,4.35,100.0,,,Westfield
+Westfield St.,00,Jess Gardner,18,0.0,3.0,,0.0,1,,1,2.0,,0,1,1,0,3,1,2,3,1,0.0,34.01,0.0,66.67,Westfield
+Westfield St.,01,Ashley Ames,8,1.0,2.0,,1.0,2,,0,0.0,,0,0,0,1,1,0,1,0,3,0.0,33.33,75.0,0.0,Westfield
+Westfield St.,02,Alex Jackson,6,1.0,3.0,,0.0,2,,0,3.0,,2,2,4,0,2,0,0,1,2,5.26,0.0,33.33,100.0,Westfield
+Westfield St.,03,Sophia DeAngelis,15,1.0,5.0,,0.0,0,,3,4.0,,0,1,1,2,0,0,1,1,5,0.0,12.89,20.0,80.0,Westfield
+Westfield St.,05,Tavi Williams,13,0.0,0.0,,0.0,0,,0,2.0,,2,2,4,4,3,0,3,2,0,5.26,77.32,,inf,Westfield
+Westfield St.,10,Alexus Sanchez,3,0.0,1.0,,0.0,1,,0,0.0,,0,1,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,Westfield
+Westfield St.,11,Tori Dodge,5,0.0,1.0,,0.0,1,,0,0.0,,0,1,1,1,0,0,0,1,0,0.0,0.0,0.0,0.0,Westfield
+Westfield St.,12,Kayley Downie,4,1.0,2.0,,1.0,2,,0,0.0,,0,1,1,0,1,0,1,0,3,0.0,33.33,75.0,0.0,Westfield
+Westfield St.,15,Anaya Tolton,4,2.0,2.0,,0.0,0,,0,1.0,,0,2,2,0,0,0,0,1,4,0.0,0.0,100.0,50.0,Westfield
+Westfield St.,20,Kiki McNary,6,3.0,4.0,,0.0,0,,0,0.0,,0,0,0,2,1,1,1,2,6,0.0,20.0,75.0,0.0,Westfield
+Westfield St.,21,Hannah Sheldon,13,0.0,2.0,,0.0,0,,2,4.0,,1,0,1,3,1,0,1,0,2,2.7,21.01,0.0,200.0,Westfield
+Westfield St.,22,Maddie Pond,16,8.0,17.0,,5.0,10,,2,2.0,,2,3,5,4,11,0,2,0,23,5.26,10.06,61.76,11.76,Westfield
+Westfield St.,23,Caellen Foley,18,1.0,1.0,,0.0,0,,2,4.0,,2,1,3,0,1,0,0,0,4,5.26,0.0,100.0,400.0,Westfield
+Westfield St.,24,Olivia Hadla,24,5.0,19.0,,1.0,5,,2,2.0,,3,1,4,1,5,0,3,3,13,7.69,13.11,28.95,10.53,Westfield
+Westfield St.,25,Morgan Berthiaume,17,1.0,4.0,,1.0,1,,1,2.0,,4,3,7,3,4,0,2,2,4,10.0,29.07,37.5,50.0,Westfield
+Westfield St.,32,Caroline Galvani,14,0.0,5.0,,0.0,4,,0,0.0,,0,0,0,2,1,0,1,3,0,0.0,16.67,0.0,0.0,Westfield
+Westfield St.,33,Jordan Grant,16,7.0,15.0,,0.0,1,,5,7.0,,5,2,7,1,3,0,4,0,19,12.2,18.12,46.67,46.67,Westfield
+Westfield St.,TM,Team,,0.0,0.0,,0.0,,,,0.0,,2,1,3,,,,1,0,0,5.26,100.0,,,Westfield

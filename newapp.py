@@ -2,6 +2,8 @@ import pandas as pd
 import os
 from shiny import App, ui, render, reactive, req
 from thefuzz import fuzz
+from matplotlib import pyplot as plt
+import numpy as np
 
 
 # Paths
@@ -94,9 +96,14 @@ app_ui = ui.page_navbar(
 
 
   ui.nav_panel("Insights",
-      ui.h3("Insights Coming Soon", class_="text-center"))
+      ui.h3("Insights Coming Soon", class_="text-center")),
+
+ ui.nav_panel("Final Project part 2 graphs",
+  
 )
 
+
+)
 
 # Server
 def server(input, output, session):
