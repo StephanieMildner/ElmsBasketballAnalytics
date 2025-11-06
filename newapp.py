@@ -99,11 +99,14 @@ app_ui = ui.page_navbar(
       ui.h3("Insights Coming Soon", class_="text-center")),
 
  ui.nav_panel("Final Project part 2 graphs",
-  
+ui.h2("Final Project Graphs", class_="text-center"),
+    ui.output_plot("final_graph")
+)
 )
 
 
-)
+
+
 
 # Server
 def server(input, output, session):
@@ -330,7 +333,95 @@ def server(input, output, session):
   @render.table
   def combo_table():
       return combo_data()
+  
 
+ #graphs I ADDED NEW BUT NOT DONE
+
+ 
+  @output
+  @render.plot
+  def final_graph():
+      # --- Step 1: Find any CSV in the Season folder ---
+      if not os.path.exists(season_folder):
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "Season folder not found", ha="center", va="center")
+          ax.axis("off")
+          return fig
+
+      files = [f for f in os.listdir(season_folder) if f.endswith(".csv")]
+      if not files:
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "No CSV files found in Season folder", ha="center", va="center")
+          ax.axis("off")
+          return fig
+
+      # --- Step 2: Load the first CSV file found ---
+      file_path = os.path.join(season_folder, files[0])
+      df = pd.read_csv(file_path)
+
+      # --- Step 3: Pick a few columns that likely exist ---
+      fig, axes = plt.subplots(1, 3, figsize=(15, 4))
+
+      # Graph 1: Top 5 PTS (if PTS column exists)
+      if "PTS" in df.columns:
+          if "Player" in df.columns:
+              top5 = df.nlargest(5, "PTS")[["Player", "PTS"]]
+              axes[0].bar(top5["Player"], top5["PTS"], color="skyblue")
+              axes[0].set_title("Top 5 Scorers")
+              axes[0].tick_params(axis="x", rotation=45)
+          else:
+              axes[0].hist(df["PTS"], bins=10, color="skyblue", edgecolor="black")
+              axes[0].set_title("Points Distribution")
+      else:
+          axes[0].text(0.5, 0.5, "No PTS column", ha="center", va="center")
+
+      # Graph 2: Plus/Minus histogram
+      if "Plus/Minus" in df.columns:
+          axes[1].hist(df["Plus/Minus"].dropna(), bins=10, color="salmon", edgecolor="black")
+          axes[1].set_title("Plus/Minus Distribution")
+      else:
+          axes[1].text(0.5, 0.5, "No Plus/Minus column", ha="center", va="center")
+
+      # Graph 3: Shooting percentages (if exist)
+      cols = [c for c in ["FG%", "3P%", "FT%"] if c in df.columns]
+      if cols:
+          df_mean = df[cols].mean()
+          axes[2].bar(cols, df_mean, color="lightgreen")
+          axes[2].set_title("Average Shooting %")
+      else:
+          axes[2].text(0.5, 0.5, "No shooting % columns", ha="center", va="center")
+
+      plt.tight_layout()
+      return fig
+  @output
+  @render.plot
+  def player_scoring_graph():
+      # Look for any season CSV file
+      files = [f for f in os.listdir(season_folder) if f.endswith(".csv")]
+      if not files:
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "No CSV files found", ha="center", va="center")
+          ax.axis("off")
+          return fig
+
+      file_path = os.path.join(season_folder, files[0])
+      df = pd.read_csv(file_path)
+
+      fig, ax = plt.subplots(figsize=(8, 5))
+
+      # --- Simple Player Scoring Comparison ---
+      if "Player" in df.columns and "PTS" in df.columns:
+          sorted_df = df.sort_values("PTS", ascending=False)
+          ax.bar(sorted_df["Player"], sorted_df["PTS"], color="royalblue")
+          ax.set_title("Elms Players – Total Points")
+          ax.set_ylabel("Points")
+          ax.tick_params(axis="x", rotation=75)
+      else:
+          ax.text(0.5, 0.5, "Player or PTS column not found", ha="center", va="center")
+          ax.axis("off")
+
+      plt.tight_layout()
+      return fig
 
 app = App(app_ui, server)
 
