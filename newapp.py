@@ -100,7 +100,21 @@ app_ui = ui.page_navbar(
 
  ui.nav_panel("Final Project part 2 graphs",
 ui.h2("Final Project Graphs", class_="text-center"),
-    ui.output_plot("final_graph")
+    ui.h4("Minutes vs Points Correlation", class_="text-center"),
+    ui.output_plot("corr_minutes_points"),
+
+    ui.hr(),
+    ui.h4("Top 5 Most Productive Lineups", class_="text-center"),
+    ui.output_plot("best_lineup_graph"),
+
+    ui.hr(),
+    ui.h4("Distribution of Plus/Minus Values", class_="text-center"),
+    ui.output_plot("plus_minus_dist"),
+
+    ui.hr(),
+    ui.h4("simpler graphs", class_="text-center"),
+    ui.output_plot("final_graph"),
+    ui.output_plot("player_scoring_graph")
 )
 )
 
@@ -336,7 +350,50 @@ def server(input, output, session):
   
 
  #graphs I ADDED NEW BUT NOT DONE
+  @output
+  @render.plot
+  def corr_minutes_points():
+      files = [f for f in os.listdir(season_folder) if f.endswith(".csv")]
+      if not files:
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "No season CSV files found", ha="center", va="center")
+          ax.axis("off")
+          return fig
 
+      df = pd.read_csv(os.path.join(season_folder, files[0]))
+
+      fig, ax = plt.subplots(figsize=(6, 5))
+      if "MIN" in df.columns and "PTS" in df.columns:
+          # Clean up numeric data (force numeric, drop invalids)
+          df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
+          df["PTS"] = pd.to_numeric(df["PTS"], errors="coerce")
+          clean_df = df.dropna(subset=["MIN", "PTS"])
+
+          if clean_df.empty:
+              ax.text(0.5, 0.5, "No valid numeric data in MIN or PTS", ha="center", va="center")
+              ax.axis("off")
+              return fig
+
+          ax.scatter(clean_df["MIN"], clean_df["PTS"], color="teal", alpha=0.6)
+          ax.set_xlabel("Minutes Played")
+          ax.set_ylabel("Points per Game")
+          ax.set_title("Correlation: Minutes Played vs Points")
+
+          # Safe regression line fit
+          try:
+              m, b = np.polyfit(clean_df["MIN"], clean_df["PTS"], 1)
+              ax.plot(clean_df["MIN"], m*clean_df["MIN"] + b, color="orange", linewidth=2)
+          except np.linalg.LinAlgError:
+              # In case SVD still fails, just skip the trendline
+              ax.text(0.5, 0.1, "Trendline unavailable (invalid data)", transform=ax.transAxes,
+                      ha="center", va="center", color="red")
+
+      else:
+          ax.text(0.5, 0.5, "Columns 'MIN' or 'PTS' missing", ha="center", va="center")
+          ax.axis("off")
+
+      plt.tight_layout()
+      return fig
  
   @output
   @render.plot
@@ -409,19 +466,97 @@ def server(input, output, session):
 
       fig, ax = plt.subplots(figsize=(8, 5))
 
-      # --- Simple Player Scoring Comparison ---
       if "Player" in df.columns and "PTS" in df.columns:
-          sorted_df = df.sort_values("PTS", ascending=False)
-          ax.bar(sorted_df["Player"], sorted_df["PTS"], color="royalblue")
-          ax.set_title("Elms Players – Total Points")
-          ax.set_ylabel("Points")
-          ax.tick_params(axis="x", rotation=75)
+          # Convert to numeric safely
+          df["PTS"] = pd.to_numeric(df["PTS"], errors="coerce")
+
+          # --- FILTER to only Elms players ---
+          # (Adjust this logic based on your CSV structure)
+          possible_team_cols = [c for c in df.columns if "Team" in c or "TEAM" in c]
+          if possible_team_cols:
+              team_col = possible_team_cols[0]
+              # Keep rows where the team name looks like Elms
+              df = df[df[team_col].str.contains("Elms", case=False, na=False)]
+          else:
+              # fallback: use your known player list
+              elms_players = [
+                  "SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY",
+                  "WASIEWICZ,GABBY", "LEWIS,JADE", "URIBE,TALIA", "GORSKI,JENNY",
+                  "BARRON,SHEA", "LEBEL,KELLY", "ASFAW,SOLIYANA", "JOHNSTON,RAHMIA",
+                  "GRAHAM,PIPER", "ANDRADE,SOPHIA", "MILDNER,STEPHANIE"
+              ]
+              df = df[df["Player"].str.upper().isin(elms_players)]
+
+          if df.empty:
+              ax.text(0.5, 0.5, "No Elms players found in this file", ha="center", va="center")
+              ax.axis("off")
+              return fig
+
+          # Group and summarize points
+          grouped = df.groupby("Player", as_index=False)["PTS"].mean()
+          top_players = grouped.sort_values("PTS", ascending=False).head(10)
+
+          ax.bar(top_players["Player"], top_players["PTS"], color="royalblue")
+          ax.set_title("Top 10 Elms Players – Average Points per Game")
+          ax.set_ylabel("Points per Game")
+          ax.tick_params(axis="x", rotation=45)
       else:
           ax.text(0.5, 0.5, "Player or PTS column not found", ha="center", va="center")
           ax.axis("off")
 
       plt.tight_layout()
       return fig
+
+
+  #this is a new graph
+  @output
+  @render.plot
+  def best_lineup_graph():
+      file_path = os.path.join(season_folder, "season_lineup_pm_totals.csv")
+      if not os.path.exists(file_path):
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "season_lineup_pm_totals.csv not found", ha="center", va="center")
+          ax.axis("off")
+          return fig
+
+      df = pd.read_csv(file_path)
+      fig, ax = plt.subplots(figsize=(8, 5))
+      if "Lineup" in df.columns and "Plus/Minus" in df.columns:
+          top5 = df.nlargest(5, "Plus/Minus")
+          ax.barh(top5["Lineup"], top5["Plus/Minus"], color="limegreen")
+          ax.set_xlabel("Plus/Minus")
+          ax.set_ylabel("Lineup")
+          ax.set_title("Top 5 Most Productive Lineups")
+          ax.invert_yaxis()
+      else:
+          ax.text(0.5, 0.5, "Required columns not found", ha="center", va="center")
+          ax.axis("off")
+      plt.tight_layout()
+      return fig
+
+  @output
+  @render.plot
+  def plus_minus_dist():
+      file_path = os.path.join(season_folder, "season_lineup_pm_totals.csv")
+      if not os.path.exists(file_path):
+          fig, ax = plt.subplots()
+          ax.text(0.5, 0.5, "season_lineup_pm_totals.csv not found", ha="center", va="center")
+          ax.axis("off")
+          return fig
+
+      df = pd.read_csv(file_path)
+      fig, ax = plt.subplots(figsize=(6, 5))
+      if "Plus/Minus" in df.columns:
+          ax.hist(df["Plus/Minus"].dropna(), bins=15, color="salmon", edgecolor="black")
+          ax.set_title("Distribution of Plus/Minus Values")
+          ax.set_xlabel("Plus/Minus")
+          ax.set_ylabel("Frequency")
+      else:
+          ax.text(0.5, 0.5, "Plus/Minus column not found", ha="center", va="center")
+          ax.axis("off")
+      plt.tight_layout()
+      return fig
+
 
 app = App(app_ui, server)
 
