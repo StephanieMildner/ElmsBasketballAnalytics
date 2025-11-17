@@ -59,7 +59,7 @@ app_ui = ui.page_navbar(
           ),
           ui.column(4, "")
       ),
-      ui.output_table("season_table")
+      ui.output_data_frame("season_table")
   ),
 
 
@@ -98,7 +98,7 @@ app_ui = ui.page_navbar(
   ui.nav_panel("Insights",
       ui.h3("Insights Coming Soon", class_="text-center")),
 
- ui.nav_panel("Final Project part 2 graphs",
+ ui.nav_panel("Final Project Part 2 Graphs",
 ui.h2("Final Project Graphs", class_="text-center"),
     ui.h4("Minutes vs Points Correlation", class_="text-center"),
     ui.output_plot("corr_minutes_points"),
@@ -317,11 +317,12 @@ def server(input, output, session):
   def game_table():
       return load_game_data()
 
-
+#changes i just made
   @output
-  @render.table
+  @render.data_frame
   def season_table():
-      return load_season_data()
+      df = load_season_data()
+      return render.DataTable(df)
 
 
   @output
