@@ -21,9 +21,9 @@ game_labels = sorted([
 ])
 
 
-player_names = [
-  "SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY", "WASIEWICZ,GABBY", "LEWIS,JADE","URIBE,TALIA","GORSKI,JENNY","BARRON,SHEA","LEBEL,KELLY","ASFAW,SOLIYANA","JOHNSTON,RAHMIA","GRAHAM,PIPER","ANDRADE,SOPHIA","MILDNER,STEPHANIE"
-]
+player_names = ["SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY", "WASIEWICZ,GABBY",
+                            "LEWIS,JADE","URIBE,TALIA","GORSKI,JENNY","BARRON,SHEA","LEBEL,KELLY","ASFAW,SOLIYANA",
+                            "JOHNSTON,RAHMIA","GRAHAM,PIPER","ANDRADE,SOPHIA","MILDNER,STEPHANIE"]
 
 
 # UI
@@ -114,9 +114,11 @@ ui.h2("Final Project Graphs", class_="text-center"),
     ui.hr(),
     ui.h4("simpler graphs", class_="text-center"),
     ui.output_plot("final_graph"),
-    ui.output_plot("player_scoring_graph")
+    ui.output_plot("player_scoring_graph"),
+
 )
 )
+
 
 
 
@@ -480,12 +482,9 @@ def server(input, output, session):
               df = df[df[team_col].str.contains("Elms", case=False, na=False)]
           else:
               # fallback: use your known player list
-              elms_players = [
-                  "SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY",
-                  "WASIEWICZ,GABBY", "LEWIS,JADE", "URIBE,TALIA", "GORSKI,JENNY",
-                  "BARRON,SHEA", "LEBEL,KELLY", "ASFAW,SOLIYANA", "JOHNSTON,RAHMIA",
-                  "GRAHAM,PIPER", "ANDRADE,SOPHIA", "MILDNER,STEPHANIE"
-              ]
+              elms_players = ["SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY", "WASIEWICZ,GABBY",
+                            "LEWIS,JADE","URIBE,TALIA","GORSKI,JENNY","BARRON,SHEA","LEBEL,KELLY","ASFAW,SOLIYANA",
+                            "JOHNSTON,RAHMIA","GRAHAM,PIPER","ANDRADE,SOPHIA","MILDNER,STEPHANIE"]
               df = df[df["Player"].str.upper().isin(elms_players)]
 
           if df.empty:
@@ -557,6 +556,8 @@ def server(input, output, session):
           ax.axis("off")
       plt.tight_layout()
       return fig
+  
+
 
 
 app = App(app_ui, server)

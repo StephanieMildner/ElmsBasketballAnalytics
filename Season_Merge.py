@@ -13,11 +13,7 @@ games_to_merge = [ "ALBERTUS_WBB", "AMHERST_WBB", "ANNA_MARIA_WBB", "COLBY_SAWYE
   "EMMANUEL_WBB", "Fitchburg State", "Gordon", "JWU_PROVIDENCE_WBB", "JWU_PROVIDENCE_WBB2",
   "LASELL_WBB", "LASELL_WBB2", "MITCHELL_WBB", "NAZARETH", "NEC_WBB", "REGIS_WBB",
   "RIVIER", "Salem State", "ST_JOSEPH_S(ME)_WBB", "USJ CT", "VSU Lyndon", "WBB NORWICH AT ELMS 2024-25",
-  "Wellesley", "Wentworth", "Westfield", "WPI"]
-
-
-
-
+  "Wellesley", "Wentworth", "Westfield", "WPI" ]
 
 
 # ---- 1. Player Plus-Minus ----
@@ -162,11 +158,9 @@ from thefuzz import process
 # ---- SEASON AVERAGE FOUR FACTORS (CLEANED) ----
 
 # Step 0: Official Elms player list
-player_names = [
-    "SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY", "WASIEWICZ,GABBY",
+player_names = ["SMITH,HEAVEN", "GUERRIER,PHONIA", "PACHECO,MIA", "TURCO,MARY", "WASIEWICZ,GABBY",
                             "LEWIS,JADE","URIBE,TALIA","GORSKI,JENNY","BARRON,SHEA","LEBEL,KELLY","ASFAW,SOLIYANA",
-                            "JOHNSTON,RAHMIA","GRAHAM,PIPER","ANDRADE,SOPHIA","MILDNER,STEPHANIE"
-]
+                            "JOHNSTON,RAHMIA","GRAHAM,PIPER","ANDRADE,SOPHIA","MILDNER,STEPHANIE"]
 
 # Step 1: Normalize player names in the DataFrame
 season_four_factors_df["Player"] = season_four_factors_df["Player"].str.strip().str.upper()
