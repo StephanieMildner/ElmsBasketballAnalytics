@@ -4,6 +4,7 @@ from shiny import App, ui, render, reactive, req
 from thefuzz import fuzz
 from matplotlib import pyplot as plt
 import numpy as np
+from scipy.stats import pearsonr
 
 
 # Paths
@@ -115,6 +116,11 @@ ui.h2("Final Project Graphs", class_="text-center"),
     ui.h4("simpler graphs", class_="text-center"),
     ui.output_plot("final_graph"),
     ui.output_plot("player_scoring_graph"),
+#new q 3 
+    ui.hr(),
+    ui.h4("Lineups With Most Positive / Negative Games", class_="text-center"),
+    ui.output_table("lineup_pm_freq_table"),
+    ui.output_plot("lineup_pm_freq_plot"),
 
 )
 )
@@ -356,52 +362,57 @@ def server(input, output, session):
   @output
   @render.plot
   def corr_minutes_points():
-      files = [f for f in os.listdir(season_folder) if f.endswith(".csv")]
-      if not files:
-          fig, ax = plt.subplots()
-          ax.text(0.5, 0.5, "No season CSV files found", ha="center", va="center")
-          ax.axis("off")
-          return fig
+    files = [f for f in os.listdir(season_folder) if f.endswith(".csv")]
+    if not files:
+        fig, ax = plt.subplots()
+        ax.text(0.5, 0.5, "No season CSV files found", ha="center", va="center")
+        ax.axis("off")
+        return fig
 
-      df = pd.read_csv(os.path.join(season_folder, files[0]))
+    df = pd.read_csv(os.path.join(season_folder, files[0]))
 
-      fig, ax = plt.subplots(figsize=(6, 5))
-      if "MIN" in df.columns and "PTS" in df.columns:
-          # Clean up numeric data (force numeric, drop invalids)
-          df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
-          df["PTS"] = pd.to_numeric(df["PTS"], errors="coerce")
-          clean_df = df.dropna(subset=["MIN", "PTS"])
+    fig, ax = plt.subplots(figsize=(6, 5))
+    if "MIN" in df.columns and "PTS" in df.columns:
+        # Make sure data is numeric
+        df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
+        df["PTS"] = pd.to_numeric(df["PTS"], errors="coerce")
+        clean_df = df.dropna(subset=["MIN", "PTS"])
 
-          if clean_df.empty:
-              ax.text(0.5, 0.5, "No valid numeric data in MIN or PTS", ha="center", va="center")
-              ax.axis("off")
-              return fig
+        if clean_df.empty:
+            ax.text(0.5, 0.5, "No valid numeric data in MIN or PTS", ha="center", va="center")
+            ax.axis("off")
+            return fig
 
-          ax.scatter(clean_df["MIN"], clean_df["PTS"], color="teal", alpha=0.6)
-          ax.set_xlabel("Minutes Played")
-          ax.set_ylabel("Points per Game")
-          ax.set_title("Correlation: Minutes Played vs Points")
+        ax.scatter(clean_df["MIN"], clean_df["PTS"], color="teal", alpha=0.6)
+        ax.set_xlabel("Minutes Played")
+        ax.set_ylabel("Points per Game")
+        ax.set_title("Minutes Played vs Points")
 
-          # Safe regression line fit
-          try:
-              m, b = np.polyfit(clean_df["MIN"], clean_df["PTS"], 1)
-              ax.plot(clean_df["MIN"], m*clean_df["MIN"] + b, color="orange", linewidth=2)
-          except np.linalg.LinAlgError:
-              # In case SVD still fails, just skip the trendline
-              ax.text(0.5, 0.1, "Trendline unavailable (invalid data)", transform=ax.transAxes,
-                      ha="center", va="center", color="red")
+        #Regression line
+        try:
+            m, b = np.polyfit(clean_df["MIN"], clean_df["PTS"], 1)
+            ax.plot(clean_df["MIN"], m*clean_df["MIN"] + b, color="#eb3492", linewidth=2)
+        except np.linalg.LinAlgError:
+            ax.text(0.5, 0.1, "Trendline unavailable (invalid data)", transform=ax.transAxes,
+                    ha="center", va="center", color="red")
 
-      else:
-          ax.text(0.5, 0.5, "Columns 'MIN' or 'PTS' missing", ha="center", va="center")
-          ax.axis("off")
+        #Calculate correlation and p-value
+        corr, p_value = pearsonr(clean_df["MIN"], clean_df["PTS"])
+        ax.text(0.05, 0.95, f"r = {corr:.2f}, p = {p_value:.3f}", transform=ax.transAxes,
+                ha="left", va="top", fontsize=10, bbox=dict(facecolor="white", alpha=0.7))
 
-      plt.tight_layout()
-      return fig
- 
+    else:
+        ax.text(0.5, 0.5, "Columns 'MIN' or 'PTS' missing", ha="center", va="center")
+        ax.axis("off")
+
+    plt.tight_layout()
+    return fig
+  
+
   @output
   @render.plot
   def final_graph():
-      # --- Step 1: Find any CSV in the Season folder ---
+
       if not os.path.exists(season_folder):
           fig, ax = plt.subplots()
           ax.text(0.5, 0.5, "Season folder not found", ha="center", va="center")
@@ -415,11 +426,10 @@ def server(input, output, session):
           ax.axis("off")
           return fig
 
-      # --- Step 2: Load the first CSV file found ---
+      #
       file_path = os.path.join(season_folder, files[0])
       df = pd.read_csv(file_path)
 
-      # --- Step 3: Pick a few columns that likely exist ---
       fig, axes = plt.subplots(1, 3, figsize=(15, 4))
 
       # Graph 1: Top 5 PTS (if PTS column exists)
@@ -509,6 +519,7 @@ def server(input, output, session):
 
 
   #this is a new graph
+
   @output
   @render.plot
   def best_lineup_graph():
@@ -520,10 +531,10 @@ def server(input, output, session):
           return fig
 
       df = pd.read_csv(file_path)
-      fig, ax = plt.subplots(figsize=(8, 5))
+      fig, ax = plt.subplots(figsize=(10, 6))
       if "Lineup" in df.columns and "Plus/Minus" in df.columns:
           top5 = df.nlargest(5, "Plus/Minus")
-          ax.barh(top5["Lineup"], top5["Plus/Minus"], color="limegreen")
+          ax.barh(top5["Lineup"], top5["Plus/Minus"], color="#143d1d")
           ax.set_xlabel("Plus/Minus")
           ax.set_ylabel("Lineup")
           ax.set_title("Top 5 Most Productive Lineups")
@@ -547,7 +558,7 @@ def server(input, output, session):
       df = pd.read_csv(file_path)
       fig, ax = plt.subplots(figsize=(6, 5))
       if "Plus/Minus" in df.columns:
-          ax.hist(df["Plus/Minus"].dropna(), bins=15, color="salmon", edgecolor="black")
+          ax.hist(df["Plus/Minus"].dropna(), bins=15, color="pink", edgecolor="black")
           ax.set_title("Distribution of Plus/Minus Values")
           ax.set_xlabel("Plus/Minus")
           ax.set_ylabel("Frequency")
@@ -556,6 +567,77 @@ def server(input, output, session):
           ax.axis("off")
       plt.tight_layout()
       return fig
+  #new q 3 graphs 
+  def load_all_game_lineups():
+    all_rows = []
+    for f in os.listdir(games_folder):
+        if f.endswith(".csv"):
+            df = pd.read_csv(os.path.join(games_folder, f))
+            if "Lineup" in df.columns and "Plus/Minus" in df.columns:
+                
+                df["Lineup"] = df["Lineup"].apply(
+                    lambda x: tuple(sorted(eval(x))) if isinstance(x, str) else x
+                )
+
+                all_rows.append(df[["Lineup", "Plus/Minus"]])
+    return pd.concat(all_rows, ignore_index=True) if all_rows else pd.DataFrame()
+
+  @output
+  @render.table
+  def lineup_pm_freq_table():
+    df = load_all_game_lineups()
+
+    if df.empty:
+        return pd.DataFrame({"Message": ["No lineup data found in game files"]})
+
+    freq = df.groupby("Lineup").agg(
+        positive_games=("Plus/Minus", lambda x: (x > 0).sum()),
+        negative_games=("Plus/Minus", lambda x: (x < 0).sum()),
+        total_appearances=("Plus/Minus", "count")
+    ).reset_index()
+
+    best_positive = freq.nlargest(1, "positive_games")
+    worst_negative = freq.nlargest(1, "negative_games")
+
+    result = pd.concat([
+        best_positive.assign(Category="Most Games With Positive Plus/Minus"),
+        worst_negative.assign(Category="Most Games With Negative Plus/Minus")
+    ])
+
+    return result
+  
+
+  @output
+  @render.plot
+  def lineup_pm_freq_plot():
+    df = load_all_game_lineups()
+
+    if df.empty:
+        fig, ax = plt.subplots()
+        ax.text(0.5, 0.5, "No lineup data found", ha="center", va="center")
+        ax.axis("off")
+        return fig
+    freq = df.groupby("Lineup").agg(
+        positive_games=("Plus/Minus", lambda x: (x > 0).sum()),
+        negative_games=("Plus/Minus", lambda x: (x < 0).sum()),
+        total_appearances=("Plus/Minus", "count")
+    ).reset_index()
+    # Select best + worst
+    best_pos = freq.nlargest(1, "positive_games")
+    worst_neg = freq.nlargest(1, "negative_games")
+
+    plot_df = pd.concat([
+        best_pos.assign(Type="Most Games Positive"),
+        worst_neg.assign(Type="Most Games Negative")
+    ])
+    fig, ax = plt.subplots(figsize=(8, 4))
+    ax.bar(plot_df["Type"], plot_df["positive_games"], color="green", label="Positive Games")
+    ax.bar(plot_df["Type"], plot_df["negative_games"], color="red", label="Negative Games", bottom=plot_df["positive_games"])
+    ax.set_ylabel("Number of Games")
+    ax.set_title("Most Positive & Negative Lineups (Season Raw Counts)")
+    ax.legend()
+
+    return fig
   
 
 
